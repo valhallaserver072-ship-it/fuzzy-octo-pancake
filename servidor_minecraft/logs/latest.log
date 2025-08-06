@@ -4880,3 +4880,26 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [05Aug2025 23:48:20.049] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6ef5cf22[id=<null>,name=Zack_201,properties={},legacy=false] (/127.74.115.109:36421): Took too long to log in
 [05Aug2025 23:48:20.050] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ef5cf22[id=<null>,name=Zack_201,properties={},legacy=false] (/127.74.115.109:36421) lost connection: Took too long to log in
 [05Aug2025 23:48:20.099] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Aug2025 23:52:44.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zack_201[/127.74.115.109:60243] logged in with entity id 2848 at (-312.1797973207695, 151.5625, -651.2972793315155)
+[05Aug2025 23:52:44.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 joined the game
+[05Aug2025 23:52:48.373] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player zack_201 has successfully logged in.
+[05Aug2025 23:52:48.380] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zack_201 (18)
+[05Aug2025 23:52:48.380] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zack_201
+[05Aug2025 23:53:01.140] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3fa830de-284c-3e51-b197-89bb104c814a
+[05Aug2025 23:53:02.141] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3fa830de-284c-3e51-b197-89bb104c814a
+[05Aug2025 23:53:02.142] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zack_201 (3fa830de-284c-3e51-b197-89bb104c814a) successfully connected to voice chat
+[05Aug2025 23:55:33.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was shot by Skeleton
+[05Aug2025 23:55:44.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was slain by Zombie
+[05Aug2025 23:55:53.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was slain by Zombie
+[05Aug2025 23:56:01.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was slain by Zombie
+[05Aug2025 23:56:09.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was slain by Zombie
+[05Aug2025 23:56:17.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was slain by Zombie
+[05Aug2025 23:56:26.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was slain by Botfly
+[05Aug2025 23:56:38.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was slain by Botfly
+[05Aug2025 23:56:44.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was slain by Botfly
+[05Aug2025 23:56:49.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was slain by Botfly
+[05Aug2025 23:57:10.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was slain by Botfly
+[05Aug2025 23:57:26.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was slain by Botfly
+[05Aug2025 23:57:38.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was slain by Botfly
+[05Aug2025 23:57:46.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 was shot by Skeleton
+[05Aug2025 23:58:33.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 has made the advancement [Take Aim]
