@@ -2177,6 +2177,7 @@
       "larch_log": "2025-08-04 07:25:29 +0000",
       "pine_log": "2025-08-04 06:46:30 +0000",
       "silver_birch_log": "2025-08-03 23:18:52 +0000",
+      "redwood_log": "2025-08-06 00:46:34 +0000",
       "maple_log": "2025-08-03 22:09:15 +0000"
     },
     "done": false
@@ -6225,6 +6226,42 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_boots": "2025-08-05 02:51:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
+    "criteria": {
+      "has_log": "2025-08-06 00:46:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-08-06 00:46:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stripped_redwood_wood": {
+    "criteria": {
+      "has_log": "2025-08-06 00:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-06 00:52:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_hanging_sign": {
+    "criteria": {
+      "has_stripped_redwood_log": "2025-08-06 00:47:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-08-06 00:46:34 +0000"
     },
     "done": true
   },

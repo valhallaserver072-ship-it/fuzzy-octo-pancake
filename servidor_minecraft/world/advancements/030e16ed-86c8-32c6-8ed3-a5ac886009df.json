@@ -4067,51 +4067,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
-    "criteria": {
-      "has_bricks": "2025-08-05 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/smoking/clinker_brick": {
-    "criteria": {
-      "has_bricks": "2025-08-05 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/redwood_bookshelf": {
-    "criteria": {
-      "has_item": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
     "criteria": {
       "has_log": "2025-08-05 02:11:10 +0000"
     },
     "done": true
   },
-  "everycomp:recipes/decorations/fd/regions_unexplored/redwood_cabinet": {
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
     "criteria": {
-      "has_item": "2025-08-05 02:42:56 +0000"
+      "has_logs": "2025-08-05 02:11:10 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
     "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
-    "criteria": {
-      "has_item": "2025-08-05 02:33:39 +0000"
+      "has_log": "2025-08-05 02:11:10 +0000"
     },
     "done": true
   },
@@ -4121,111 +4091,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/regions_unexplored/redwood_ladder": {
-    "criteria": {
-      "has_item": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/bp/regions_unexplored/redwood_backpack_shelf": {
-    "criteria": {
-      "has_item": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/c/regions_unexplored/redwood_window_pane": {
-    "criteria": {
-      "has_item": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
-    "criteria": {
-      "has_item": "2025-08-05 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-05 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/tf/regions_unexplored/redwood_banister": {
-    "criteria": {
-      "has_item": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
-  "natprog:craft_flint_saw": {
-    "criteria": {
-      "get_flint_saw": "2025-08-05 02:24:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-08-05 02:39:59 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/redwood_fence": {
-    "criteria": {
-      "has_redwood_planks": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/clinker_brick_sill": {
-    "criteria": {
-      "has_bricks": "2025-08-05 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-08-05 02:33:44 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/corner_red_brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-05 02:33:39 +0000"
-    },
-    "done": true
-  },
   "tfmg:recipes/decorations/aluminum_bars_from_ingots_aluminum_stonecutting": {
     "criteria": {
       "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2025-08-05 02:33:39 +0000"
     },
     "done": true
   },
@@ -4241,15 +4109,165 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+  "immersiveengineering:recipes/misc/crafting/stick_aluminum": {
     "criteria": {
-      "has_stone_bricks": "2025-08-05 02:33:39 +0000"
+      "has_alu_ingot": "2025-08-05 02:22:41 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+  "immersiveengineering:recipes/misc/crafting/ingot_aluminum_to_storage_aluminum": {
     "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
+      "has_ingot_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/gray_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/magenta_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_wallmount": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/aluminum_wire_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_fence": {
+    "criteria": {
+      "has_alu_ingot": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_redstone": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/purple_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/lime_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_aluminum": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/brown_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/light_gray_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/green_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/aluminum_ladder_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/white_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/get_nuggets_from_aluminum_ingot": {
+    "criteria": {
+      "has_ingot_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/yellow_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_aluminum_to_ingot_aluminum": {
+    "criteria": {
+      "has_storage_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/light_blue_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/aluminum_scaffolding_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/orange_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/cyan_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/blue_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/building_blocks/pink_caution_block_from_ingots_aluminum_stonecutting": {
+    "criteria": {
+      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_scaffolding_standard": {
+    "criteria": {
+      "has_alu_ingot": "2025-08-05 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "natprog:craft_flint_saw": {
+    "criteria": {
+      "get_flint_saw": "2025-08-05 02:24:37 +0000"
     },
     "done": true
   },
@@ -4259,21 +4277,75 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/stick_aluminum": {
+  "immersive_weathering:recipes/stone_brick": {
     "criteria": {
-      "has_alu_ingot": "2025-08-05 02:22:41 +0000"
+      "has_copper_block": "2025-08-05 02:27:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blastbrick": {
+    "criteria": {
+      "has_item": "2025-08-05 02:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-08-05 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smoking/clinker_brick": {
+    "criteria": {
+      "has_bricks": "2025-08-05 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-08-05 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-08-05 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-05 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/clinker_brick_sill": {
+    "criteria": {
+      "has_bricks": "2025-08-05 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/corner_red_brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-05 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-08-05 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-05 02:33:39 +0000"
     },
     "done": true
   },
   "createdeco:recipes/building_blocks/tiled_red_brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-05 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-08-05 02:39:59 +0000"
     },
     "done": true
   },
@@ -4295,39 +4367,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/ingot_aluminum_to_storage_aluminum": {
-    "criteria": {
-      "has_ingot_aluminum": "2025-08-05 02:22:41 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/long_red_brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-05 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/pine_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/boat_jar": {
-    "criteria": {
-      "minecraft:boats": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/transformation_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
     },
     "done": true
   },
@@ -4355,93 +4397,9 @@
     },
     "done": true
   },
-  "tfmg:recipes/building_blocks/gray_caution_block_from_ingots_aluminum_stonecutting": {
-    "criteria": {
-      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/redwood_fence_gate": {
-    "criteria": {
-      "has_redwood_planks": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/redwood_sign": {
-    "criteria": {
-      "has_redwood_planks": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/redwood_planks": {
-    "criteria": {
-      "has_logs": "2025-08-05 02:11:10 +0000"
-    },
-    "done": true
-  },
-  "tfmg:recipes/building_blocks/magenta_caution_block_from_ingots_aluminum_stonecutting": {
-    "criteria": {
-      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/redwood_stairs": {
-    "criteria": {
-      "has_redwood_planks": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-08-05 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/dead_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/alu_wallmount": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-08-05 02:22:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/redwood_slab": {
-    "criteria": {
-      "has_redwood_planks": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
-  "tfmg:recipes/building_blocks/aluminum_wire_from_ingots_aluminum_stonecutting": {
-    "criteria": {
-      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/maple_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/alu_fence": {
-    "criteria": {
-      "has_alu_ingot": "2025-08-05 02:22:41 +0000"
     },
     "done": true
   },
@@ -4451,39 +4409,15 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/wirecoil_redstone": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-08-05 02:22:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-05 02:33:39 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/regions_unexplored/sign_post_redwood": {
-    "criteria": {
-      "has_item": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:mycologist": {
-    "criteria": {
-      "blue_bioshroom": "2025-08-05 02:49:49 +0000"
-    },
-    "done": false
-  },
   "createdeco:recipes/building_blocks/tiled_red_brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-05 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "tfmg:recipes/building_blocks/purple_caution_block_from_ingots_aluminum_stonecutting": {
-    "criteria": {
-      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
     },
     "done": true
   },
@@ -4499,33 +4433,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_bricks": "2025-08-05 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/stone_brick": {
-    "criteria": {
-      "has_copper_block": "2025-08-05 02:27:44 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/sorting_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
     },
     "done": true
   },
@@ -4541,75 +4451,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "tfmg:recipes/building_blocks/lime_caution_block_from_ingots_aluminum_stonecutting": {
-    "criteria": {
-      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/redwood_chest": {
-    "criteria": {
-      "has_item": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wire_aluminum": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-08-05 02:22:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/redwood_door": {
-    "criteria": {
-      "has_redwood_planks": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/corner_red_brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-05 02:33:39 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/mining_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/corner_red_bricks_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-05 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/building_blocks/c/regions_unexplored/redwood_window": {
-    "criteria": {
-      "has_item": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/redwood_button": {
-    "criteria": {
-      "has_redwood_planks": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
-  "tfmg:recipes/building_blocks/brown_caution_block_from_ingots_aluminum_stonecutting": {
-    "criteria": {
-      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
-    },
-    "done": true
-  },
-  "tfmg:recipes/building_blocks/light_gray_caution_block_from_ingots_aluminum_stonecutting": {
-    "criteria": {
-      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
     },
     "done": true
   },
@@ -4625,69 +4475,15 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/sd/regions_unexplored/redwood_trim": {
-    "criteria": {
-      "has_item": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/redwood_vertical_slab": {
-    "criteria": {
-      "has_item": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/cracked_red_bricks_from_bricks_blasting": {
     "criteria": {
       "has_bricks": "2025-08-05 02:33:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "tfmg:recipes/building_blocks/green_caution_block_from_ingots_aluminum_stonecutting": {
-    "criteria": {
-      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/stripped_redwood_post": {
-    "criteria": {
-      "has_item": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/redwood_vertical_slab_revert": {
-    "criteria": {
-      "has_item": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-08-05 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "tfmg:recipes/decorations/aluminum_ladder_from_ingots_aluminum_stonecutting": {
-    "criteria": {
-      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/willow_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/dark_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
     },
     "done": true
   },
@@ -4703,33 +4499,9 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/regions_unexplored/vertical_redwood_planks": {
-    "criteria": {
-      "has_item": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/building_blocks/long_red_brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-05 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "tfmg:recipes/building_blocks/white_caution_block_from_ingots_aluminum_stonecutting": {
-    "criteria": {
-      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "immersivegeology:recipes/misc/crafting/get_nuggets_from_aluminum_ingot": {
-    "criteria": {
-      "has_ingot_aluminum": "2025-08-05 02:22:41 +0000"
     },
     "done": true
   },
@@ -4745,63 +4517,9 @@
     },
     "done": true
   },
-  "tfmg:recipes/building_blocks/yellow_caution_block_from_ingots_aluminum_stonecutting": {
-    "criteria": {
-      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
-    },
-    "done": true
-  },
-  "brewinandchewin:recipes/cooking/apple_jelly": {
-    "criteria": {
-      "has_apple": "2025-08-05 02:33:44 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-08-05 02:39:59 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/redwood_trapdoor": {
-    "criteria": {
-      "has_redwood_planks": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/blue_dye_from_blue_bioshroom": {
-    "criteria": {
-      "has_blue_bioshroom": "2025-08-05 02:49:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-08-05 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/blue_bioshroom_block": {
-    "criteria": {
-      "has_blue_bioshroom": "2025-08-05 02:49:49 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/transportation/palm_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/storage_aluminum_to_ingot_aluminum": {
-    "criteria": {
-      "has_storage_aluminum": "2025-08-05 02:22:41 +0000"
     },
     "done": true
   },
@@ -4811,21 +4529,207 @@
     },
     "done": true
   },
-  "everycomp:recipes/decorations/q/regions_unexplored/hollow_redwood_log": {
-    "criteria": {
-      "has_item": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-08-05 02:33:39 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/transportation/canopy_chest_boat": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
+      "has_tag": "2025-08-05 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-05 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/short_red_bricks_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-05 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-05 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/short_red_brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-08-05 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-08-05 02:33:44 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/cooking/apple_jelly": {
+    "criteria": {
+      "has_apple": "2025-08-05 02:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-08-05 02:39:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-08-05 02:39:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-08-05 02:39:59 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_bookshelf": {
+    "criteria": {
+      "has_item": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/regions_unexplored/redwood_cabinet": {
+    "criteria": {
+      "has_item": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_ladder": {
+    "criteria": {
+      "has_item": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/regions_unexplored/redwood_backpack_shelf": {
+    "criteria": {
+      "has_item": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/redwood_window_pane": {
+    "criteria": {
+      "has_item": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/redwood_banister": {
+    "criteria": {
+      "has_item": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_redwood": {
+    "criteria": {
+      "has_item": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_chest": {
+    "criteria": {
+      "has_item": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/redwood_window": {
+    "criteria": {
+      "has_item": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/redwood_trim": {
+    "criteria": {
+      "has_item": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_vertical_slab": {
+    "criteria": {
+      "has_item": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/stripped_redwood_post": {
+    "criteria": {
+      "has_item": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_vertical_slab_revert": {
+    "criteria": {
+      "has_item": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/vertical_redwood_planks": {
+    "criteria": {
+      "has_item": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-05 02:42:56 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/hollow_redwood_log": {
+    "criteria": {
+      "has_item": "2025-08-05 02:42:56 +0000"
     },
     "done": true
   },
@@ -4847,33 +4751,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-08-05 02:33:39 +0000"
-    },
-    "done": true
-  },
   "everycomp:recipes/decorations/tf/regions_unexplored/hollow_redwood_log": {
     "criteria": {
       "has_item": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
-  "tfmg:recipes/building_blocks/light_blue_caution_block_from_ingots_aluminum_stonecutting": {
-    "criteria": {
-      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/time_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-08-05 02:44:24 +0000"
     },
     "done": true
   },
@@ -4895,27 +4775,195 @@
     },
     "done": true
   },
-  "tfmg:recipes/decorations/aluminum_scaffolding_from_ingots_aluminum_stonecutting": {
+  "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
-      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+      "has_redwood_planks": "2025-08-05 02:42:56 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/tall_blue_bioshroom": {
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_post": {
     "criteria": {
-      "has_blue_bioshroom": "2025-08-05 02:49:49 +0000"
+      "has_item": "2025-08-05 02:42:56 +0000"
     },
     "done": true
   },
-  "tfmg:recipes/building_blocks/orange_caution_block_from_ingots_aluminum_stonecutting": {
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_trapped_chest": {
     "criteria": {
-      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
+      "has_item": "2025-08-05 02:42:56 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/blastbrick": {
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
     "criteria": {
-      "has_item": "2025-08-05 02:27:44 +0000"
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-05 02:44:24 +0000"
     },
     "done": true
   },
@@ -4931,33 +4979,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-08-05 02:33:39 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/joshua_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-05 02:44:24 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/short_red_bricks_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-05 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "tfmg:recipes/building_blocks/cyan_caution_block_from_ingots_aluminum_stonecutting": {
-    "criteria": {
-      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
-    },
-    "done": true
-  },
-  "tfmg:recipes/building_blocks/blue_caution_block_from_ingots_aluminum_stonecutting": {
-    "criteria": {
-      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
     },
     "done": true
   },
@@ -4967,63 +4991,39 @@
     },
     "done": true
   },
-  "tfmg:recipes/building_blocks/pink_caution_block_from_ingots_aluminum_stonecutting": {
-    "criteria": {
-      "has_ingots_aluminum": "2025-08-05 02:22:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
-    "criteria": {
-      "has_redwood_planks": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-05 02:44:24 +0000"
     },
     "done": true
   },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "blue_bioshroom": "2025-08-05 02:49:49 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_bioshroom": {
+    "criteria": {
+      "has_blue_bioshroom": "2025-08-05 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_bioshroom_block": {
+    "criteria": {
+      "has_blue_bioshroom": "2025-08-05 02:49:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_blue_bioshroom": {
+    "criteria": {
+      "has_blue_bioshroom": "2025-08-05 02:49:49 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/pink_bioshroom_from_tall_pink_bioshroom": {
     "criteria": {
       "has_tall_pink_bioshroom": "2025-08-05 02:50:06 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/redwood_wood": {
-    "criteria": {
-      "has_log": "2025-08-05 02:11:10 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/redwood_post": {
-    "criteria": {
-      "has_item": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/alu_scaffolding_standard": {
-    "criteria": {
-      "has_alu_ingot": "2025-08-05 02:22:41 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/stonecutting/stone_tile": {
-    "criteria": {
-      "has_stone_bricks": "2025-08-05 02:33:39 +0000"
-    },
-    "done": true
-  },
-  "everycomp:recipes/decorations/q/regions_unexplored/redwood_trapped_chest": {
-    "criteria": {
-      "has_item": "2025-08-05 02:42:56 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/short_red_brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-08-05 02:33:39 +0000"
     },
     "done": true
   },

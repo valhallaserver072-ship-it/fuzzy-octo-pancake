@@ -89,6 +89,7 @@
       "cold_river": "2025-08-04 06:59:09 +0000",
       "pumpkin_fields": "2025-08-04 06:59:46 +0000",
       "pine_slopes": "2025-08-04 05:19:10 +0000",
+      "gravel_beach": "2025-08-06 00:29:25 +0000",
       "lupine_plains": "2025-08-04 05:48:29 +0000"
     },
     "done": false
@@ -109,6 +110,7 @@
       "cold_river": "2025-08-04 06:59:09 +0000",
       "pumpkin_fields": "2025-08-04 06:59:46 +0000",
       "pine_slopes": "2025-08-04 05:19:10 +0000",
+      "gravel_beach": "2025-08-06 00:29:25 +0000",
       "lupine_plains": "2025-08-04 05:48:29 +0000"
     },
     "done": false
@@ -1434,6 +1436,7 @@
       "cooked_mutton": "2025-08-04 05:44:02 +0000",
       "cooked_beef": "2025-08-04 08:13:52 +0000",
       "porkchop": "2025-08-04 09:57:16 +0000",
+      "mutton": "2025-08-06 00:15:33 +0000",
       "cooked_chicken": "2025-08-04 08:50:04 +0000",
       "carrot": "2025-08-04 09:27:50 +0000"
     },
@@ -1683,8 +1686,10 @@
     "criteria": {
       "minecraft:cherry_grove": "2025-08-04 07:38:00 +0000",
       "minecraft:river": "2025-08-04 06:58:10 +0000",
+      "minecraft:stony_shore": "2025-08-06 00:26:20 +0000",
       "minecraft:swamp": "2025-08-04 06:10:41 +0000",
       "minecraft:grove": "2025-08-05 01:11:42 +0000",
+      "minecraft:jagged_peaks": "2025-08-06 00:33:33 +0000",
       "minecraft:lush_caves": "2025-08-04 07:01:35 +0000",
       "minecraft:meadow": "2025-08-04 07:37:39 +0000"
     },
@@ -4483,15 +4488,405 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-08-06 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_vertical_slab_revert": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-08-05 23:58:33 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-08-06 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-08-06 00:18:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-06 00:18:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-08-06 00:06:47 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_chest": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-06 00:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-06 00:18:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-08-05 23:58:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/vertical_maple_planks": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/maple_window_pane": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-08-06 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/stone_bricks": {
+    "criteria": {
+      "has_copper_block": "2025-08-06 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-08-06 00:18:19 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/maple_half_drawers_1": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/maple_half_drawers_2": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/maple_half_drawers_4": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_maple": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-06 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/hollow_maple_log": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_post": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/stripped_maple_post": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-06 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_trapped_chest": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/maple_trim": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/regions_unexplored/maple_backpack_shelf": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-06 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-08-06 00:38:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/regions_unexplored/maple_cabinet": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/maple_full_drawers_1": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/maple_full_drawers_2": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/maple_full_drawers_4": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-06 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "natprog:knap_bone_shard": {
+    "criteria": {
+      "get_bone_shard": "2025-08-06 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/cooking/blazing_chili": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-06 00:38:41 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:symphonyof_chaos": {
+    "criteria": {
+      "symphonyof_chaos_0": "2025-08-06 00:34:09 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-06 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-08-06 00:38:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/hollow_maple_log": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_ladder": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-08-06 00:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-06 00:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-06 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-06 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-06 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-08-06 00:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-08-06 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-08-06 00:12:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/maple_banister": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-06 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/maple_window": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-06 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_vertical_slab": {
+    "criteria": {
+      "has_item": "2025-08-06 00:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-08-06 00:38:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-08-06 00:18:19 +0000"
     },
     "done": true
   },
