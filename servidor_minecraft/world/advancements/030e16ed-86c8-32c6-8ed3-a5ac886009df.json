@@ -94,12 +94,14 @@
       "willow_forest": "2025-08-04 05:15:41 +0000",
       "redstone_caves": "2025-08-04 00:15:16 +0000",
       "poppy_fields": "2025-08-04 03:07:46 +0000",
+      "grassy_beach": "2025-08-06 01:04:49 +0000",
       "rocky_meadow": "2025-08-04 03:04:31 +0000",
       "blackwood_taiga": "2025-08-05 02:49:50 +0000",
       "ochard": "2025-08-04 03:04:11 +0000",
       "flower_fields": "2025-08-04 04:39:03 +0000",
       "highland_fields": "2025-08-04 03:04:37 +0000",
       "maple_forest": "2025-08-03 22:08:36 +0000",
+      "magnolia_highlands": "2025-08-06 01:03:00 +0000",
       "boreal_forest": "2025-08-04 04:00:00 +0000",
       "cold_boreal_taiga": "2025-08-04 04:00:29 +0000",
       "temperate_grove": "2025-08-04 03:31:52 +0000",
@@ -120,12 +122,14 @@
       "muddy_river": "2025-08-04 03:32:46 +0000",
       "willow_forest": "2025-08-04 05:15:41 +0000",
       "poppy_fields": "2025-08-04 03:07:46 +0000",
+      "grassy_beach": "2025-08-06 01:04:49 +0000",
       "rocky_meadow": "2025-08-04 03:04:31 +0000",
       "blackwood_taiga": "2025-08-05 02:49:50 +0000",
       "ochard": "2025-08-04 03:04:11 +0000",
       "flower_fields": "2025-08-04 04:39:03 +0000",
       "highland_fields": "2025-08-04 03:04:37 +0000",
       "maple_forest": "2025-08-03 22:08:36 +0000",
+      "magnolia_highlands": "2025-08-06 01:03:00 +0000",
       "boreal_forest": "2025-08-04 04:00:00 +0000",
       "cold_boreal_taiga": "2025-08-04 04:00:29 +0000",
       "temperate_grove": "2025-08-04 03:31:52 +0000",
@@ -2658,8 +2662,11 @@
       "minecraft:cherry_grove": "2025-08-04 03:07:52 +0000",
       "minecraft:beach": "2025-08-04 05:00:12 +0000",
       "minecraft:river": "2025-08-04 02:56:15 +0000",
+      "minecraft:stony_shore": "2025-08-06 01:04:43 +0000",
       "minecraft:swamp": "2025-08-04 03:40:30 +0000",
+      "minecraft:ocean": "2025-08-06 01:05:02 +0000",
       "minecraft:flower_forest": "2025-08-04 04:59:36 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-06 01:01:36 +0000",
       "minecraft:meadow": "2025-08-04 03:08:04 +0000",
       "minecraft:plains": "2025-08-04 04:59:38 +0000"
     },
@@ -2707,6 +2714,7 @@
       "apple": "2025-08-05 02:38:39 +0000",
       "mutton": "2025-08-04 03:26:45 +0000",
       "rotten_flesh": "2025-08-04 04:00:07 +0000",
+      "glow_berries": "2025-08-06 01:05:19 +0000",
       "salmon": "2025-08-04 05:20:58 +0000"
     },
     "done": false
@@ -5024,6 +5032,48 @@
   "regions_unexplored:recipes/misc/pink_bioshroom_from_tall_pink_bioshroom": {
     "criteria": {
       "has_tall_pink_bioshroom": "2025-08-05 02:50:06 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/cooking/glow_berry_marmalade": {
+    "criteria": {
+      "has_glow_berries": "2025-08-06 01:05:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-08-06 01:05:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-06 01:09:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-06 01:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-06 01:05:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-08-06 01:04:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-06 01:09:54 +0000"
     },
     "done": true
   },

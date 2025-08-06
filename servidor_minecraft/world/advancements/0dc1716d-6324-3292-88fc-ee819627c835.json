@@ -1720,6 +1720,7 @@
       "mutton": "2025-08-04 04:40:53 +0000",
       "bread": "2025-08-04 05:28:12 +0000",
       "rotten_flesh": "2025-08-04 03:26:41 +0000",
+      "cookie": "2025-08-06 01:15:09 +0000",
       "salmon": "2025-08-04 04:46:34 +0000",
       "melon_slice": "2025-08-05 22:46:31 +0000",
       "carrot": "2025-08-04 03:44:35 +0000"
@@ -5862,6 +5863,18 @@
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2025-08-06 00:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-06 01:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-06 01:18:14 +0000"
     },
     "done": true
   },

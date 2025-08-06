@@ -77,6 +77,7 @@
       "autumnal_maple_forest": "2025-08-04 04:47:29 +0000",
       "muddy_river": "2025-08-04 05:59:28 +0000",
       "ancient_delta": "2025-08-05 02:53:02 +0000",
+      "frozen_tundra": "2025-08-06 01:03:12 +0000",
       "redstone_caves": "2025-08-04 05:29:54 +0000",
       "poppy_fields": "2025-08-04 07:39:05 +0000",
       "rocky_meadow": "2025-08-04 09:54:12 +0000",
@@ -99,6 +100,7 @@
       "pine_taiga": "2025-08-04 06:11:35 +0000",
       "autumnal_maple_forest": "2025-08-04 04:47:29 +0000",
       "muddy_river": "2025-08-04 05:59:28 +0000",
+      "frozen_tundra": "2025-08-06 01:03:12 +0000",
       "poppy_fields": "2025-08-04 07:39:05 +0000",
       "rocky_meadow": "2025-08-04 09:54:12 +0000",
       "ochard": "2025-08-04 09:19:23 +0000",
@@ -673,6 +675,7 @@
       "minecraft:skeleton": "2025-08-04 05:55:49 +0000",
       "minecraft:spider": "2025-08-04 04:51:38 +0000",
       "minecraft:creeper": "2025-08-04 08:19:45 +0000",
+      "minecraft:husk": "2025-08-06 01:22:11 +0000",
       "minecraft:zombie": "2025-08-04 05:44:49 +0000"
     },
     "done": false
@@ -4572,6 +4575,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-08-06 01:12:39 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/maple_sign": {
     "criteria": {
       "has_maple_planks": "2025-08-06 00:01:49 +0000"
@@ -4593,6 +4602,12 @@
   "immersive_weathering:recipes/stone_bricks": {
     "criteria": {
       "has_copper_block": "2025-08-06 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-08-06 01:11:05 +0000"
     },
     "done": true
   },
@@ -4803,6 +4818,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-08-06 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-08-06 01:04:40 +0000"
     },
     "done": true
   },
