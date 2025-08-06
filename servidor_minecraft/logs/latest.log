@@ -4950,3 +4950,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [06Aug2025 22:15:28.303] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.18103679)
 [06Aug2025 22:15:28.303] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for ae2:spatial_storage changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.14565557)
 [06Aug2025 22:15:41.091] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 60.28416061401367) to VERY_LOW (avg. 1.6973130702972412)
+[06Aug2025 22:39:15.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] alo
+[06Aug2025 22:39:23.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hay alguien?
