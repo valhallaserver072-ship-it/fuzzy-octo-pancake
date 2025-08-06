@@ -7,7 +7,7 @@
     ],
     "key": {
         "O": {
-            "item": "immersiveengineering:stick_treated"
+            "item": "minecraft:stick"
         },
         "L": {
             "tag": "forge:string"

@@ -91,6 +91,7 @@
       "autumnal_maple_forest": "2025-08-03 19:52:28 +0000",
       "muddy_river": "2025-08-03 20:06:58 +0000",
       "prismachasm": "2025-08-04 01:58:16 +0000",
+      "ancient_delta": "2025-08-06 02:48:07 +0000",
       "frozen_tundra": "2025-08-03 20:37:29 +0000",
       "redstone_caves": "2025-08-03 19:54:19 +0000",
       "poppy_fields": "2025-08-03 20:25:11 +0000",
@@ -110,6 +111,7 @@
       "cold_river": "2025-08-03 20:39:36 +0000",
       "pumpkin_fields": "2025-08-03 20:28:41 +0000",
       "pine_slopes": "2025-08-03 19:58:53 +0000",
+      "gravel_beach": "2025-08-06 08:02:43 +0000",
       "icy_heights": "2025-08-03 19:56:16 +0000",
       "lupine_plains": "2025-08-03 20:07:54 +0000"
     },
@@ -139,6 +141,7 @@
       "cold_river": "2025-08-03 20:39:36 +0000",
       "pumpkin_fields": "2025-08-03 20:28:41 +0000",
       "pine_slopes": "2025-08-03 19:58:53 +0000",
+      "gravel_beach": "2025-08-06 08:02:43 +0000",
       "icy_heights": "2025-08-03 19:56:16 +0000",
       "lupine_plains": "2025-08-03 20:07:54 +0000"
     },
@@ -430,7 +433,8 @@
     "criteria": {
       "redstone_caves": "2025-08-03 19:54:19 +0000",
       "prismachasm": "2025-08-04 01:58:16 +0000",
-      "scorching_caves": "2025-08-03 19:55:55 +0000"
+      "scorching_caves": "2025-08-03 19:55:55 +0000",
+      "ancient_delta": "2025-08-06 02:48:07 +0000"
     },
     "done": false
   },
@@ -447,6 +451,7 @@
       "minecraft:swamp": "2025-08-03 20:07:15 +0000",
       "minecraft:grove": "2025-08-05 01:48:16 +0000",
       "minecraft:jagged_peaks": "2025-08-03 21:02:42 +0000",
+      "minecraft:cold_ocean": "2025-08-06 04:31:00 +0000",
       "minecraft:forest": "2025-08-04 00:47:19 +0000",
       "minecraft:lush_caves": "2025-08-04 07:01:45 +0000",
       "minecraft:ocean": "2025-08-06 01:05:01 +0000",
@@ -3739,12 +3744,16 @@
       "cooked_porkchop": "2025-08-04 09:11:39 +0000",
       "chicken": "2025-08-04 02:28:55 +0000",
       "honey_bottle": "2025-08-04 07:51:26 +0000",
+      "cooked_mutton": "2025-08-06 04:47:42 +0000",
       "cooked_beef": "2025-08-04 05:27:13 +0000",
       "beef": "2025-08-04 01:13:07 +0000",
       "porkchop": "2025-08-04 01:02:50 +0000",
+      "tropical_fish": "2025-08-06 06:52:46 +0000",
       "mutton": "2025-08-04 00:49:17 +0000",
       "rotten_flesh": "2025-08-04 02:38:53 +0000",
+      "glow_berries": "2025-08-06 03:48:16 +0000",
       "salmon": "2025-08-04 02:44:45 +0000",
+      "cooked_chicken": "2025-08-06 07:50:14 +0000",
       "carrot": "2025-08-04 03:41:03 +0000"
     },
     "done": false
@@ -5845,7 +5854,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2025-08-05 00:04:49 +0000"
+      "minecraft:cow": "2025-08-05 00:04:49 +0000",
+      "minecraft:bee": "2025-08-06 08:02:39 +0000"
     },
     "done": false
   },
@@ -6245,15 +6255,15 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/stripped_redwood_wood": {
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
     "criteria": {
-      "has_log": "2025-08-06 00:47:00 +0000"
+      "has_log": "2025-08-06 00:46:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
+  "regions_unexplored:recipes/building_blocks/stripped_redwood_wood": {
     "criteria": {
-      "has_redstone_torch": "2025-08-06 00:52:38 +0000"
+      "has_log": "2025-08-06 00:47:00 +0000"
     },
     "done": true
   },
@@ -6263,9 +6273,1563 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/redwood_wood": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "has_log": "2025-08-06 00:46:34 +0000"
+      "has_redstone_torch": "2025-08-06 00:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-06 04:02:45 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/get_ingot_from_iron_nuggets": {
+    "criteria": {
+      "has_nugget_iron": "2025-08-06 04:02:45 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/iron_nugget": {
+    "criteria": {
+      "has_copper_block": "2025-08-06 04:02:45 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/misc/tankard": {
+    "criteria": {
+      "has_nugget": "2025-08-06 04:02:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-06 04:02:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-06 04:02:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-06 04:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-08-06 04:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-08-06 04:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-08-06 04:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-06 04:08:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-08-06 04:08:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2025-08-06 04:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-06 04:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-06 04:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-06 04:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-06 04:09:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_bleeding_heart": {
+    "criteria": {
+      "has_bleeding_heart": "2025-08-06 04:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-08-06 04:39:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2025-08-06 04:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-06 04:39:17 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-08-06 04:50:31 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-08-06 04:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-08-06 05:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-08-06 05:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-08-06 05:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-08-06 05:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-06 05:07:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-06 05:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-08-06 05:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-06 05:07:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_item": "2025-08-06 05:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-06 05:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-06 05:07:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-06 06:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-06 06:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-06 06:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-06 06:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-06 06:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-06 06:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-06 06:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-06 06:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-08-06 06:36:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-08-06 06:36:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-08-06 06:36:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-08-06 06:36:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/lantern": {
+    "criteria": {
+      "has_glowstone": "2025-08-06 06:40:12 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/tracer_tip": {
+    "criteria": {
+      "has_glowstone": "2025-08-06 06:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-06 06:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-06 06:40:12 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-08-06 06:43:24 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/slag_glass": {
+    "criteria": {
+      "has_slag": "2025-08-06 06:49:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/slag_brick": {
+    "criteria": {
+      "has_slag": "2025-08-06 06:49:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fertilizer": {
+    "criteria": {
+      "has_slag": "2025-08-06 06:49:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2025-08-06 06:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-06 06:57:12 +0000"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2025-08-06 07:14:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-08-06 07:17:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-08-06 07:17:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2025-08-06 07:17:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/ingot_tin_compat_ic2": {
+    "criteria": {
+      "has_item": "2025-08-06 07:32:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/ingot_tin_compat_mekanism": {
+    "criteria": {
+      "has_item": "2025-08-06 07:32:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/tin_ingot_compat_thermal": {
+    "criteria": {
+      "has_item": "2025-08-06 07:32:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/ingot_tin_compat_mekanism": {
+    "criteria": {
+      "has_item": "2025-08-06 07:32:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/ingot_tin_compat_ic2": {
+    "criteria": {
+      "has_item": "2025-08-06 07:32:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/tin_ingot_compat_thermal": {
+    "criteria": {
+      "has_item": "2025-08-06 07:32:08 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_galena_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_cuprite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_hematite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_platinum_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_chalcopyrite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_pyrolusite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_wolframite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_magnetite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_chromite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_silver_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_anatase": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_cuprite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_pyrolusite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_fluorite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_hematite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_lead_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_apatite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_gypsum": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_apatite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_pyrite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_iron": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_pyrite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_sphalerite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_scheelite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_smithsonite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_thorite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_anatase_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_hematite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_platinum_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_cryolite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_cobaltite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_gold": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_millerite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_uraninite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_chalcopyrite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_molybdenite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_thorianite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_pyrolusite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_silver_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_ilmenite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_chalcocite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_molybdenite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_unobtania_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_chromite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_vanadinite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_anatase_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_cassiterite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_gypsum_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_wolframite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_copper": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_thorianite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_chromite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_zircon_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_zircon_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_alumina_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_wolframite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_cassiterite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_ilmenite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_acanthite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_magnetite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_fluorite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_copper_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_uraninite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_acanthite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_zircon_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_gypsum_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_unobtania": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_uraninite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_platinum": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_ilmenite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_galena_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_silver_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_bauxite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_gold_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_scheelite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_magnetite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_fluorite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_lead_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_thorianite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_smithsonite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_pyrolusite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_thorite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_cuprite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_chalcocite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_vanadinite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_anatase_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_bauxite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_sphalerite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_magnetite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_sphalerite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_chalcopyrite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_ilmenite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_unobtania_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_gypsum_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_thorite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_monazite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_galena_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_monazite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_platinum_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_hematite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_cuprite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_thorite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_cryolite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_lead": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_acanthite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_millerite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_zircon": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_copper_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_pyrite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_cobaltite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_monazite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_cryolite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_bauxite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_molybdenite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_apatite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_thorianite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_scheelite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_alumina_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_smithsonite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_vanadinite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_copper_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_chalcopyrite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_chromite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_unobtania_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_bauxite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_cryolite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_scheelite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_gold_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_osmium": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_gold_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_wolframite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_sphalerite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_cassiterite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_acanthite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_galena": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_alumina_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_monazite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_chalcocite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_pyrite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_chalcocite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_cobaltite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_cobaltite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_cassiterite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_uraninite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_alumina": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_lead_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_millerite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_smithsonite_normal_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_molybdenite_rich_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_fluorite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_silver": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_vanadinite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/crush_millerite_poor_ore_with_work_hammer": {
+    "criteria": {
+      "has_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/wash_dirty_crushed_apatite": {
+    "criteria": {
+      "has_stone_work_hammer": "2025-08-06 07:35:44 +0000"
+    },
+    "done": true
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-08-06 07:38:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-06 07:50:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-06 07:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-08-06 08:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-06 08:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-06 08:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-06 08:19:32 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/gunpowder_from_dusts": {
+    "criteria": {
+      "has_sulfur": "2025-08-06 08:22:22 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/craft_bronze_plate_with_bronze_hammer": {
+    "criteria": {
+      "has_bronze_work_hammer": "2025-08-06 08:31:46 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/craft_copper_plate_with_bronze_hammer": {
+    "criteria": {
+      "has_bronze_work_hammer": "2025-08-06 08:31:46 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2025-08-06 08:31:47 +0000"
     },
     "done": true
   },
