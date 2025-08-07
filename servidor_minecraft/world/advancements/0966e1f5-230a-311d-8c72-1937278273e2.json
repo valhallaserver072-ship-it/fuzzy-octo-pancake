@@ -1993,8 +1993,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-08-04 00:49:58 +0000",
+      "sweet_berries": "2025-08-07 23:07:42 +0000",
       "beef": "2025-08-04 00:52:42 +0000",
       "porkchop": "2025-08-04 01:11:57 +0000",
+      "rabbit": "2025-08-07 23:09:16 +0000",
       "mutton": "2025-08-04 00:46:55 +0000",
       "rotten_flesh": "2025-08-04 01:41:05 +0000",
       "salmon": "2025-08-04 01:39:21 +0000",
@@ -2613,6 +2615,12 @@
       "has_gray_wool": "2025-08-07 23:05:57 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-08-07 23:09:02 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
