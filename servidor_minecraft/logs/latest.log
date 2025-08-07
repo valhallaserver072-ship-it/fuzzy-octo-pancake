@@ -4989,3 +4989,7 @@ java.lang.IllegalStateException: not found
 [07Aug2025 19:35:20.522] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
 [07Aug2025 19:35:48.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.16852378845215) to VERY_LOW (avg. 18.593231201171875)
 [07Aug2025 19:36:57.763] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 19:42:25.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.620874404907227) to LOW (avg. 20.859167098999023)
+[07Aug2025 19:42:33.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.859167098999023) to VERY_LOW (avg. 16.09252166748047)
+[07Aug2025 19:45:29.528] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=574, y=76, z=-31}
+[07Aug2025 19:45:29.529] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=574, y=76, z=-31}
