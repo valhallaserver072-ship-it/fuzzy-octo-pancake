@@ -8638,9 +8638,135 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/regions_unexplored/mauve_chest": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_stairs": {
+    "criteria": {
+      "has_mauve_planks": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/mauve_bookshelf": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/mauve_trapped_chest": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/stripped_mauve_post": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/mauve_banister": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_door": {
+    "criteria": {
+      "has_mauve_planks": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
   "farmersrespite:recipes/food/black_cod": {
     "criteria": {
       "has_cod": "2025-08-07 21:42:31 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/mauve_half_drawers_1": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/mauve_half_drawers_2": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/mauve_half_drawers_4": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/mauve_window_pane": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/vertical_mauve_planks": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/mauve_window": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/hollow_mauve_log": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/mauve_full_drawers_4": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/mauve_full_drawers_2": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/mauve_full_drawers_1": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/hollow_mauve_log": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/mauve_vertical_slab": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-08-07 22:36:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_pressure_plate": {
+    "criteria": {
+      "has_mauve_planks": "2025-08-07 22:42:12 +0000"
     },
     "done": true
   },
@@ -8650,15 +8776,57 @@
     },
     "done": false
   },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2025-08-07 22:43:54 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/mauve_ladder": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackstone_lamp": {
     "criteria": {
       "has_shroomlight": "2025-08-07 22:28:47 +0000"
     },
     "done": true
   },
+  "everycomp:recipes/decorations/fd/regions_unexplored/mauve_cabinet": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/end_stone_lamp": {
     "criteria": {
       "has_shroomlight": "2025-08-07 22:28:47 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/mauve_post": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_button": {
+    "criteria": {
+      "has_mauve_planks": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_sign": {
+    "criteria": {
+      "has_mauve_planks": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/mauve_trim": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
     },
     "done": true
   },
@@ -8674,15 +8842,69 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/regions_unexplored/mauve_vertical_slab_revert": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_mauve": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/tall_blue_bioshroom": {
     "criteria": {
       "has_blue_bioshroom": "2025-08-07 22:29:03 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/blue_dye_from_meadow_sage": {
+    "criteria": {
+      "has_meadow_sage": "2025-08-07 22:38:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mauve_fence": {
+    "criteria": {
+      "has_mauve_planks": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/deepslate_lamp": {
     "criteria": {
       "has_shroomlight": "2025-08-07 22:28:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_slab": {
+    "criteria": {
+      "has_mauve_planks": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_trapdoor": {
+    "criteria": {
+      "has_mauve_planks": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/regions_unexplored/mauve_backpack_shelf": {
+    "criteria": {
+      "has_item": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/mauve_fence_gate": {
+    "criteria": {
+      "has_mauve_planks": "2025-08-07 22:42:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+    "criteria": {
+      "has_fireweed": "2025-08-07 22:41:20 +0000"
     },
     "done": true
   },

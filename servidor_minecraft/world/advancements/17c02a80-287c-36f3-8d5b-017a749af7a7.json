@@ -3746,10 +3746,12 @@
       "chicken": "2025-08-04 02:28:55 +0000",
       "honey_bottle": "2025-08-04 07:51:26 +0000",
       "cooked_mutton": "2025-08-06 04:47:42 +0000",
+      "sweet_berries": "2025-08-07 22:36:17 +0000",
       "cooked_beef": "2025-08-04 05:27:13 +0000",
       "beef": "2025-08-04 01:13:07 +0000",
       "porkchop": "2025-08-04 01:02:50 +0000",
       "tropical_fish": "2025-08-06 06:52:46 +0000",
+      "pumpkin_pie": "2025-08-07 22:39:45 +0000",
       "mutton": "2025-08-04 00:49:17 +0000",
       "bread": "2025-08-07 00:23:11 +0000",
       "rotten_flesh": "2025-08-04 02:38:53 +0000",
@@ -8539,6 +8541,42 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "salmon": "2025-08-07 08:59:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/orange_dye_from_orange_coneflower": {
+    "criteria": {
+      "has_orange_coneflower": "2025-08-07 22:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-08-07 22:39:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
+    "criteria": {
+      "has_tassel": "2025-08-07 22:44:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
+    "criteria": {
+      "has_white_trillium": "2025-08-07 22:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-08-07 22:39:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-08-07 22:39:52 +0000"
     },
     "done": true
   },

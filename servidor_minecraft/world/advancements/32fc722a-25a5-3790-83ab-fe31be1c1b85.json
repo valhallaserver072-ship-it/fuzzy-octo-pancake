@@ -73,6 +73,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-08-07 22:42:45 +0000",
       "shrubland": "2025-08-04 00:43:53 +0000",
       "autumnal_maple_forest": "2025-08-03 23:55:44 +0000",
       "muddy_river": "2025-08-04 00:43:29 +0000",
@@ -93,6 +94,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-08-07 22:42:45 +0000",
       "shrubland": "2025-08-04 00:43:53 +0000",
       "autumnal_maple_forest": "2025-08-03 23:55:44 +0000",
       "muddy_river": "2025-08-04 00:43:29 +0000",
@@ -3737,6 +3739,42 @@
   "immersive_weathering:recipes/sand": {
     "criteria": {
       "has_copper_block": "2025-08-07 21:49:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-08-07 22:40:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-07 22:40:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-08-07 22:40:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
+    "criteria": {
+      "has_white_trillium": "2025-08-07 22:42:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-07 22:40:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-08-07 22:40:33 +0000"
     },
     "done": true
   },

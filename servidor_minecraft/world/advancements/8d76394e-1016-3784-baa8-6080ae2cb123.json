@@ -81,6 +81,7 @@
       "frozen_tundra": "2025-08-07 03:46:53 +0000",
       "poppy_fields": "2025-08-07 03:22:44 +0000",
       "blackwood_taiga": "2025-08-07 22:28:34 +0000",
+      "rocky_meadow": "2025-08-07 22:37:46 +0000",
       "ochard": "2025-08-07 22:26:19 +0000",
       "highland_fields": "2025-08-07 03:23:14 +0000",
       "maple_forest": "2025-08-06 23:29:17 +0000",
@@ -100,6 +101,7 @@
       "frozen_tundra": "2025-08-07 03:46:53 +0000",
       "poppy_fields": "2025-08-07 03:22:44 +0000",
       "blackwood_taiga": "2025-08-07 22:28:34 +0000",
+      "rocky_meadow": "2025-08-07 22:37:46 +0000",
       "ochard": "2025-08-07 22:26:19 +0000",
       "highland_fields": "2025-08-07 03:23:14 +0000",
       "maple_forest": "2025-08-06 23:29:17 +0000",
@@ -2795,9 +2797,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-08-07 22:03:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mauve_wood": {
+    "criteria": {
+      "has_log": "2025-08-07 22:41:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
     },
     "done": true
   },
@@ -2807,9 +2833,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-08-07 22:10:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
     },
     "done": true
   },
@@ -2819,6 +2863,12 @@
       "ancient_delta": "2025-08-07 22:13:46 +0000"
     },
     "done": false
+  },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
@@ -2832,15 +2882,69 @@
     },
     "done": true
   },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "mauve_log": "2025-08-07 22:41:59 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/decorations/mauve_branch_from_mauve_log": {
+    "criteria": {
+      "has_log": "2025-08-07 22:41:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/cokebrick": {
     "criteria": {
       "has_item": "2025-08-07 22:00:56 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/mauve_planks": {
+    "criteria": {
+      "has_logs": "2025-08-07 22:41:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-08-07 22:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
     },
     "done": true
   },
@@ -2862,9 +2966,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-08-07 22:33:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
     },
     "done": true
   },
@@ -2874,9 +2990,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-08-07 22:03:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2025-08-07 22:42:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
     },
     "done": true
   },
@@ -2886,9 +3026,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/scarlet_cheese_from_milk": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 22:49:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-08-07 22:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
     },
     "done": true
   },
@@ -2898,9 +3062,117 @@
     },
     "done": false
   },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/cooking/blazing_chili": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-07 22:49:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-08-07 22:03:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 22:49:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 22:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/food/nether_wart_sourdough": {
+    "criteria": {
+      "has_wart": "2025-08-07 22:49:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-07 22:42:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+    "criteria": {
+      "has_fireweed": "2025-08-07 22:43:04 +0000"
     },
     "done": true
   },

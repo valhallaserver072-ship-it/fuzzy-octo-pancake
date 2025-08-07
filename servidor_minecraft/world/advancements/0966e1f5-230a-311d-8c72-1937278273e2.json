@@ -73,6 +73,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-08-07 22:45:12 +0000",
       "shrubland": "2025-08-04 00:44:36 +0000",
       "autumnal_maple_forest": "2025-08-03 23:54:18 +0000",
       "muddy_river": "2025-08-04 00:44:05 +0000",
@@ -88,6 +89,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-08-07 22:45:12 +0000",
       "shrubland": "2025-08-04 00:44:36 +0000",
       "autumnal_maple_forest": "2025-08-03 23:54:18 +0000",
       "muddy_river": "2025-08-04 00:44:05 +0000",
@@ -2598,15 +2600,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-07 22:50:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-08-07 22:40:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-07 22:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie_villager": "2025-08-07 22:43:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-08-07 22:40:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
+    "criteria": {
+      "has_tassel": "2025-08-07 22:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie_villager": "2025-08-07 22:43:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-07 22:50:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-08-07 22:22:29 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-07 22:40:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2025-08-07 22:20:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-08-07 22:40:37 +0000"
     },
     "done": true
   },
