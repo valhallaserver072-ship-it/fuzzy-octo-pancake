@@ -80,24 +80,30 @@
       "muddy_river": "2025-08-04 05:59:28 +0000",
       "prismachasm": "2025-08-06 05:04:52 +0000",
       "ancient_delta": "2025-08-05 02:53:02 +0000",
+      "willow_forest": "2025-08-07 05:03:04 +0000",
       "frozen_tundra": "2025-08-06 01:03:12 +0000",
       "rocky_reef": "2025-08-07 01:56:42 +0000",
       "redstone_caves": "2025-08-04 05:29:54 +0000",
       "poppy_fields": "2025-08-04 07:39:05 +0000",
+      "grassy_beach": "2025-08-07 02:45:19 +0000",
       "rocky_meadow": "2025-08-04 09:54:12 +0000",
       "ochard": "2025-08-04 09:19:23 +0000",
+      "flower_fields": "2025-08-07 02:46:03 +0000",
       "highland_fields": "2025-08-04 07:39:13 +0000",
       "maple_forest": "2025-08-04 04:46:55 +0000",
       "frozen_pine_taiga": "2025-08-06 08:12:18 +0000",
       "magnolia_highlands": "2025-08-04 09:57:28 +0000",
       "mountains": "2025-08-06 06:10:17 +0000",
       "joshua_desert": "2025-08-07 02:02:38 +0000",
+      "deciduous_forest": "2025-08-07 02:40:32 +0000",
       "boreal_forest": "2025-08-04 06:48:10 +0000",
       "chalk_cliffs": "2025-08-07 02:02:00 +0000",
       "temperate_grove": "2025-08-04 06:58:32 +0000",
       "cold_river": "2025-08-04 06:59:09 +0000",
       "pumpkin_fields": "2025-08-04 06:59:46 +0000",
       "pine_slopes": "2025-08-04 05:19:10 +0000",
+      "grassland": "2025-08-07 02:39:06 +0000",
+      "prairie": "2025-08-07 02:40:19 +0000",
       "gravel_beach": "2025-08-06 00:29:25 +0000",
       "redwoods": "2025-08-07 02:14:30 +0000",
       "rainforest": "2025-08-07 02:03:42 +0000",
@@ -112,23 +118,29 @@
       "pine_taiga": "2025-08-04 06:11:35 +0000",
       "autumnal_maple_forest": "2025-08-04 04:47:29 +0000",
       "muddy_river": "2025-08-04 05:59:28 +0000",
+      "willow_forest": "2025-08-07 05:03:04 +0000",
       "frozen_tundra": "2025-08-06 01:03:12 +0000",
       "rocky_reef": "2025-08-07 01:56:42 +0000",
       "poppy_fields": "2025-08-04 07:39:05 +0000",
+      "grassy_beach": "2025-08-07 02:45:19 +0000",
       "rocky_meadow": "2025-08-04 09:54:12 +0000",
       "ochard": "2025-08-04 09:19:23 +0000",
+      "flower_fields": "2025-08-07 02:46:03 +0000",
       "highland_fields": "2025-08-04 07:39:13 +0000",
       "maple_forest": "2025-08-04 04:46:55 +0000",
       "frozen_pine_taiga": "2025-08-06 08:12:18 +0000",
       "magnolia_highlands": "2025-08-04 09:57:28 +0000",
       "mountains": "2025-08-06 06:10:17 +0000",
       "joshua_desert": "2025-08-07 02:02:38 +0000",
+      "deciduous_forest": "2025-08-07 02:40:32 +0000",
       "boreal_forest": "2025-08-04 06:48:10 +0000",
       "chalk_cliffs": "2025-08-07 02:02:00 +0000",
       "temperate_grove": "2025-08-04 06:58:32 +0000",
       "cold_river": "2025-08-04 06:59:09 +0000",
       "pumpkin_fields": "2025-08-04 06:59:46 +0000",
       "pine_slopes": "2025-08-04 05:19:10 +0000",
+      "grassland": "2025-08-07 02:39:06 +0000",
+      "prairie": "2025-08-07 02:40:19 +0000",
       "gravel_beach": "2025-08-06 00:29:25 +0000",
       "redwoods": "2025-08-07 02:14:30 +0000",
       "rainforest": "2025-08-07 02:03:42 +0000",
@@ -691,9 +703,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-07 04:42:31 +0000",
       "minecraft:skeleton": "2025-08-04 05:55:49 +0000",
       "minecraft:spider": "2025-08-04 04:51:38 +0000",
       "minecraft:creeper": "2025-08-04 08:19:45 +0000",
+      "minecraft:slime": "2025-08-07 05:34:39 +0000",
       "minecraft:witch": "2025-08-06 05:26:45 +0000",
       "minecraft:husk": "2025-08-06 01:22:11 +0000",
       "minecraft:enderman": "2025-08-06 07:21:52 +0000",
@@ -1471,6 +1485,7 @@
       "glow_berries": "2025-08-06 06:23:36 +0000",
       "melon_slice": "2025-08-07 02:23:39 +0000",
       "cooked_chicken": "2025-08-04 08:50:04 +0000",
+      "cooked_salmon": "2025-08-07 04:51:23 +0000",
       "carrot": "2025-08-04 09:27:50 +0000"
     },
     "done": false
@@ -1729,9 +1744,12 @@
       "minecraft:lush_caves": "2025-08-04 07:01:35 +0000",
       "minecraft:deep_cold_ocean": "2025-08-07 01:32:35 +0000",
       "minecraft:jungle": "2025-08-07 02:15:55 +0000",
+      "minecraft:ocean": "2025-08-07 02:44:11 +0000",
       "minecraft:warm_ocean": "2025-08-07 01:49:32 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-07 01:43:36 +0000",
+      "minecraft:flower_forest": "2025-08-07 02:47:35 +0000",
       "minecraft:meadow": "2025-08-04 07:37:39 +0000",
+      "minecraft:savanna": "2025-08-07 02:43:18 +0000",
       "minecraft:plains": "2025-08-06 06:14:44 +0000"
     },
     "done": false
@@ -7955,33 +7973,15 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
-    "criteria": {
-      "has_log": "2025-08-07 02:17:49 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-08-07 02:11:04 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-08-07 02:14:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-08-07 02:11:04 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/redwood_planks": {
-    "criteria": {
-      "has_logs": "2025-08-07 02:17:49 +0000"
     },
     "done": true
   },
@@ -8003,15 +8003,411 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-07 02:14:33 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/tame_capuchin": {
     "criteria": {
       "tame": "2025-08-07 02:14:33 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
+    "criteria": {
+      "has_log": "2025-08-07 02:17:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-08-07 02:17:49 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/redwood_wood": {
     "criteria": {
       "has_log": "2025-08-07 02:17:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pink_dye_from_salmon_poppy_bush": {
+    "criteria": {
+      "has_salmon_poppy_bush": "2025-08-07 02:50:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_poppy_bush": {
+    "criteria": {
+      "has_poppy_bush": "2025-08-07 02:50:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
+    "criteria": {
+      "has_white_trillium": "2025-08-07 03:19:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-07 03:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-07 03:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-07 03:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-07 03:38:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-08-07 04:05:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-08-07 04:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-07 04:42:52 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/cladding_template": {
+    "criteria": {
+      "get_disc": "2025-08-07 04:42:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-08-07 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/cooking/apple_jelly": {
+    "criteria": {
+      "has_apple": "2025-08-07 04:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-08-07 04:59:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-08-07 04:59:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-08-07 04:59:48 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/smoke_shell": {
+    "criteria": {
+      "has_hay_block": "2025-08-07 05:08:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-08-07 05:08:28 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-08-07 05:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-07 05:08:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-07 05:19:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "bacon_and_eggs": "2025-08-07 05:19:10 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-07 05:19:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-08-07 05:19:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-08-07 05:24:53 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/cooking/sweet_berry_jam": {
+    "criteria": {
+      "has_sweet_berries": "2025-08-07 05:24:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fruit_salad": {
+    "criteria": {
+      "has_fruits": "2025-08-07 05:24:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-07 05:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-07 05:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-07 05:34:41 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_bookshelf": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/regions_unexplored/redwood_cabinet": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_ladder": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/regions_unexplored/redwood_backpack_shelf": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/redwood_window_pane": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/redwood_banister": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_redwood": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_chest": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/redwood_window": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/redwood_trim": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_vertical_slab": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/stripped_redwood_post": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_vertical_slab_revert": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/vertical_redwood_planks": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/hollow_redwood_log": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/redwood_full_drawers_2": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/redwood_full_drawers_1": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/redwood_full_drawers_4": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/hollow_redwood_log": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/redwood_half_drawers_1": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/redwood_half_drawers_2": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/redwood_half_drawers_4": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_redwood_planks": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_post": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/redwood_trapped_chest": {
+    "criteria": {
+      "has_item": "2025-08-07 05:40:08 +0000"
     },
     "done": true
   },
