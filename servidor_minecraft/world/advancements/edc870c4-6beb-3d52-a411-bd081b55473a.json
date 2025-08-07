@@ -6642,6 +6642,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-08-07 06:15:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-08-07 06:24:46 +0000"
@@ -6654,13 +6660,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/grindstone": {
+  "sereneseasons:recipes/tools/calendar": {
     "criteria": {
-      "has_stone_slab": "2025-08-07 06:15:17 +0000"
+      "has_clock": "2025-08-07 06:40:25 +0000"
     },
     "done": true
   },
-  "sereneseasons:recipes/tools/calendar": {
+  "createbigcannons:recipes/misc/timed_fuze": {
     "criteria": {
       "has_clock": "2025-08-07 06:40:25 +0000"
     },
@@ -6672,15 +6678,15 @@
     },
     "done": true
   },
-  "tfmg:recipes/misc/crafting/kinetics/lead_frame": {
-    "criteria": {
-      "has_item": "2025-08-07 06:41:00 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/coke_to_coal_coke": {
     "criteria": {
       "has_coke": "2025-08-07 06:40:59 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/misc/crafting/kinetics/lead_frame": {
+    "criteria": {
+      "has_item": "2025-08-07 06:41:00 +0000"
     },
     "done": true
   },
@@ -6708,9 +6714,87 @@
     },
     "done": true
   },
-  "createbigcannons:recipes/misc/timed_fuze": {
+  "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
-      "has_clock": "2025-08-07 06:40:25 +0000"
+      "has_yellow_dye": "2025-08-07 22:17:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-07 22:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-07 22:17:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_yellow_dye": {
+    "criteria": {
+      "forge:dyes/yellow": "2025-08-07 22:17:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-08-07 22:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-07 22:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-08-07 22:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-07 22:12:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-08-07 22:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-07 22:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-07 22:17:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-08-07 22:17:01 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/weeds": {
+    "criteria": {
+      "wheat": "2025-08-07 22:12:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-08-07 22:17:01 +0000"
     },
     "done": true
   },

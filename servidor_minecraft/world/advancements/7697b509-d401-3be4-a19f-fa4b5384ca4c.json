@@ -6052,21 +6052,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-08-07 06:51:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-08-07 06:18:08 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-08-07 06:55:54 +0000"
     },
     "done": true
   },
@@ -6076,25 +6064,37 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-08-07 07:33:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-08-07 07:08:33 +0000"
-    },
-    "done": true
-  },
-  "cold_sweat:huddle_close": {
-    "criteria": {
-      "requirement": "2025-08-07 06:30:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-07 06:18:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-08-07 06:18:08 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2025-08-07 06:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-07 06:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-07 06:18:08 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/powerpack": {
     "criteria": {
       "has_leather": "2025-08-07 06:18:08 +0000"
     },
@@ -6106,27 +6106,27 @@
     },
     "done": true
   },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+  "cold_sweat:huddle_close": {
     "criteria": {
-      "has_item": "2025-08-07 06:55:54 +0000"
+      "requirement": "2025-08-07 06:30:22 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/blindfold": {
+  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
     "criteria": {
-      "has_item": "2025-08-07 06:18:08 +0000"
+      "has_fireweed": "2025-08-07 06:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-07 06:51:53 +0000"
     },
     "done": true
   },
   "supplementaries:recipes/candle_holders/candle_holder_magenta_dye": {
     "criteria": {
       "forge:dyes/magenta": "2025-08-07 06:51:53 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/conveyor_basic": {
-    "criteria": {
-      "has_leather": "2025-08-07 06:18:08 +0000"
     },
     "done": true
   },
@@ -6148,28 +6148,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/raw_zinc_block": {
-    "criteria": {
-      "has_item": "2025-08-07 06:55:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/magenta_candle": {
     "criteria": {
       "has_magenta_dye": "2025-08-07 06:51:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:horse": "2025-08-07 07:34:30 +0000",
-      "minecraft:wolf": "2025-08-07 07:08:33 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-08-07 06:18:08 +0000"
     },
     "done": true
   },
@@ -6185,27 +6166,9 @@
     },
     "done": true
   },
-  "brewinandchewin:recipes/cooking/apple_jelly": {
-    "criteria": {
-      "has_apple": "2025-08-07 07:33:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-08-07 06:18:08 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/dense_covered_magenta": {
     "criteria": {
       "has_dyes/black": "2025-08-07 06:51:53 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/powerpack": {
-    "criteria": {
-      "has_leather": "2025-08-07 06:18:08 +0000"
     },
     "done": true
   },
@@ -6221,9 +6184,46 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
-      "has_fireweed": "2025-08-07 06:51:51 +0000"
+      "has_item": "2025-08-07 06:55:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-08-07 06:55:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-08-07 06:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-08-07 07:08:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:horse": "2025-08-07 07:34:30 +0000",
+      "minecraft:wolf": "2025-08-07 07:08:33 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-08-07 07:33:00 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/cooking/apple_jelly": {
+    "criteria": {
+      "has_apple": "2025-08-07 07:33:00 +0000"
     },
     "done": true
   },

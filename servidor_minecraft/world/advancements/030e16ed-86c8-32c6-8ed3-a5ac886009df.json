@@ -2666,6 +2666,7 @@
       "minecraft:river": "2025-08-04 02:56:15 +0000",
       "minecraft:stony_shore": "2025-08-06 01:04:43 +0000",
       "minecraft:swamp": "2025-08-04 03:40:30 +0000",
+      "minecraft:cold_ocean": "2025-08-07 22:17:53 +0000",
       "minecraft:ocean": "2025-08-06 01:05:02 +0000",
       "minecraft:flower_forest": "2025-08-04 04:59:36 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-06 01:01:36 +0000",
@@ -5038,9 +5039,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/red_dye_from_poppy_bush": {
+  "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
-      "has_poppy_bush": "2025-08-06 01:25:03 +0000"
+      "ex": "2025-08-06 01:04:10 +0000"
     },
     "done": true
   },
@@ -5050,7 +5051,19 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-06 01:05:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-08-06 01:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-08-06 01:05:53 +0000"
     },
@@ -5062,27 +5075,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-06 01:05:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-08-06 01:05:53 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-08-06 01:04:10 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2025-08-06 01:09:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_poppy_bush": {
+    "criteria": {
+      "has_poppy_bush": "2025-08-06 01:25:03 +0000"
     },
     "done": true
   },

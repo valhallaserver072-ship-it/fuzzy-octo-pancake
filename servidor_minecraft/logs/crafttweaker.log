@@ -1,131 +1,131 @@
-[18:38:04.774][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
-[18:38:04.786][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
-[18:38:04.956][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
-[18:38:04.963][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[18:38:04.969][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
-[18:38:06.138][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
-[18:38:06.143][INFO][CraftTweaker]: - 'angrymobs' at version '4.1.0'
-[18:38:06.143][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.57'
-[18:38:06.143][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.8'
-[18:38:06.143][INFO][CraftTweaker]: - 'gamestages' at version '15.0.2'
-[18:38:06.143][INFO][CraftTweaker]: - 'immersiveengineering' at version '1.20.1-10.2.0-183'
-[18:38:06.143][INFO][CraftTweaker]: - 'sdmmobstages' at version '1.20.1-1.0.1'
-[18:38:26.967][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
-[18:38:27.702][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[18:38:27.750][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[18:38:27.844][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
-[18:38:51.104][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
-[18:38:51.155][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[18:38:51.177][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[18:38:51.191][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
-[18:38:55.643][INFO][CraftTweaker]: crafttweaker.reload.start
-[18:38:55.655][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
-[18:38:55.684][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[18:38:56.142][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
-[18:38:56.146][INFO][CraftTweaker-ZenCode]: Loading file 'spawning_stages.zs' with priority 0
-[18:38:56.175][INFO][CraftTweaker]: Registering event listener for net.minecraftforge.event.entity.player.AdvancementEvent$AdvancementEarnEvent
-[18:38:56.179][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@658beb7d added to stage_2.stage
-[18:38:56.179][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@45961d69 added to stage_2.stage
-[18:38:56.179][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@7f7cc6a5 added to stage_2.stage
-[18:38:56.179][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@2134990 added to stage_2.stage
-[18:38:56.179][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@97a3417 added to stage_2.stage
-[18:38:56.179][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@7cf20d04 added to stage_2.stage
-[18:38:56.179][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6522a5d1 added to stage_2.stage
-[18:38:56.179][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@7d652f2c added to stage_2.stage
-[18:38:56.179][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@25e7661b added to stage_2.stage
-[18:38:56.179][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@4991c58e added to stage_2.stage
-[18:38:56.179][INFO][CraftTweaker]: Registering event listener for net.minecraftforge.event.entity.player.AdvancementEvent$AdvancementEarnEvent
-[18:38:56.179][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@396ded40 added to stage_3.stage
-[18:38:56.180][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6da5a90e added to stage_3.stage
-[18:38:56.180][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@73eccd1f added to stage_3.stage
-[18:38:56.180][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@3496db59 added to stage_3.stage
-[18:38:56.180][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@62473766 added to stage_3.stage
-[18:38:56.180][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@22ea1ff9 added to stage_3.stage
-[18:38:56.180][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@37fbba8e added to stage_3.stage
-[18:38:56.180][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@3535e33b added to stage_3.stage
-[18:38:56.180][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6e120efc added to stage_3.stage
-[18:38:56.180][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@1cf5c110 added to stage_3.stage
-[18:38:56.180][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@763037ca added to stage_3.stage
-[18:38:56.180][INFO][CraftTweaker]: Registering event listener for net.minecraftforge.event.entity.player.AdvancementEvent$AdvancementEarnEvent
-[18:38:56.180][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6c062e0c added to stage_4.stage
-[18:38:56.180][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@129da89e added to stage_4.stage
-[18:38:56.180][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@2052069c added to stage_4.stage
-[18:38:56.180][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@572bfb3b added to stage_4.stage
-[18:38:56.180][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@a00c99c added to stage_4.stage
-[18:38:56.180][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@75a6491a added to stage_4.stage
-[18:38:56.180][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@45f0c7d4 added to stage_4.stage
-[18:38:56.180][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@4d0a1e72 added to stage_4.stage
-[18:38:56.180][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@414a7266 added to stage_4.stage
-[18:38:56.181][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6e30dcc added to stage_4.stage
-[18:38:56.181][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@45eea4a3 added to stage_4.stage
-[18:38:56.181][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@580acbe2 added to stage_4.stage
-[18:38:56.181][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@4ac14bc7 added to stage_4.stage
-[18:38:56.181][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@5452b23e added to stage_4.stage
-[18:38:56.181][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6429dfab added to stage_4.stage
-[18:38:56.181][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6af25d17 added to stage_4.stage
-[18:38:56.181][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@2aadacfd added to stage_4.stage
-[18:38:56.181][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6b2f28d4 added to stage_4.stage
-[18:38:56.181][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@41d1769d added to stage_4.stage
-[18:38:56.181][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@39b38155 added to stage_4.stage
-[18:38:56.181][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
-[18:38:56.182][INFO][CraftTweaker]: crafttweaker.reload.complete
-[18:38:56.183][INFO][CraftTweaker]: This reload was made possible by Lucas and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
-[18:39:05.758][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
-[18:39:05.758][INFO][CraftTweaker-ZenCode]: Undoing previous actions
-[18:39:05.781][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[18:39:05.786][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[18:39:05.797][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
-[18:39:08.912][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
-[18:39:08.912][INFO][CraftTweaker-ZenCode]: Undoing previous actions
-[18:39:08.913][INFO][CraftTweaker]: Unregistering event listener for net.minecraftforge.event.entity.player.AdvancementEvent$AdvancementEarnEvent
-[18:39:08.913][INFO][CraftTweaker]: Unregistering event listener for net.minecraftforge.event.entity.player.AdvancementEvent$AdvancementEarnEvent
-[18:39:08.913][INFO][CraftTweaker]: Unregistering event listener for net.minecraftforge.event.entity.player.AdvancementEvent$AdvancementEarnEvent
-[18:39:08.932][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[18:39:09.097][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
-[18:39:09.097][INFO][CraftTweaker-ZenCode]: Loading file 'spawning_stages.zs' with priority 0
-[18:39:09.114][INFO][CraftTweaker]: Registering event listener for net.minecraftforge.event.entity.player.AdvancementEvent$AdvancementEarnEvent
-[18:39:09.115][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@372e2e3a added to stage_2.stage
-[18:39:09.115][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@68a4081 added to stage_2.stage
-[18:39:09.115][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@31c8f7d added to stage_2.stage
-[18:39:09.115][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@7e63928e added to stage_2.stage
-[18:39:09.115][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@38fa3c86 added to stage_2.stage
-[18:39:09.115][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6c20ed50 added to stage_2.stage
-[18:39:09.115][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@b20f0ce added to stage_2.stage
-[18:39:09.115][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@69b5f4c6 added to stage_2.stage
-[18:39:09.115][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@c2fb7a added to stage_2.stage
-[18:39:09.115][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6b63cc5f added to stage_2.stage
-[18:39:09.115][INFO][CraftTweaker]: Registering event listener for net.minecraftforge.event.entity.player.AdvancementEvent$AdvancementEarnEvent
-[18:39:09.115][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6749e77d added to stage_3.stage
-[18:39:09.115][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@211c2c96 added to stage_3.stage
-[18:39:09.115][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@36920ae4 added to stage_3.stage
-[18:39:09.115][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@43e6395d added to stage_3.stage
-[18:39:09.115][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6b3c4c53 added to stage_3.stage
-[18:39:09.115][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@2b04b53e added to stage_3.stage
-[18:39:09.115][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@d674f90 added to stage_3.stage
-[18:39:09.115][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@7f39b3b0 added to stage_3.stage
-[18:39:09.115][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@766e36d0 added to stage_3.stage
-[18:39:09.115][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@784dd066 added to stage_3.stage
-[18:39:09.115][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@4f611b30 added to stage_3.stage
-[18:39:09.115][INFO][CraftTweaker]: Registering event listener for net.minecraftforge.event.entity.player.AdvancementEvent$AdvancementEarnEvent
-[18:39:09.116][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@7d77955f added to stage_4.stage
-[18:39:09.116][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@7aa8f497 added to stage_4.stage
-[18:39:09.116][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6cf0d544 added to stage_4.stage
-[18:39:09.116][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@2b8feb71 added to stage_4.stage
-[18:39:09.116][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6a935e32 added to stage_4.stage
-[18:39:09.116][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@57a203bb added to stage_4.stage
-[18:39:09.116][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@3d92b6fe added to stage_4.stage
-[18:39:09.116][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6912165e added to stage_4.stage
-[18:39:09.116][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@1900a780 added to stage_4.stage
-[18:39:09.116][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@5e78d0c0 added to stage_4.stage
-[18:39:09.116][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@7675b8b7 added to stage_4.stage
-[18:39:09.116][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@facf0c1 added to stage_4.stage
-[18:39:09.116][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@130c6a13 added to stage_4.stage
-[18:39:09.116][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@b6a5662 added to stage_4.stage
-[18:39:09.116][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@5001e7b8 added to stage_4.stage
-[18:39:09.116][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@38432f81 added to stage_4.stage
-[18:39:09.116][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@48ef9668 added to stage_4.stage
-[18:39:09.116][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@116f0051 added to stage_4.stage
-[18:39:09.116][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@4e8c19e3 added to stage_4.stage
-[18:39:09.116][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6f121894 added to stage_4.stage
-[18:39:09.116][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
-[18:39:09.117][INFO][CraftTweaker]: This reload was made possible by DreamThorn and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[21:34:49.654][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
+[21:34:49.668][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[21:34:49.725][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[21:34:49.725][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[21:34:49.739][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[21:34:51.010][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[21:34:51.010][INFO][CraftTweaker]: - 'angrymobs' at version '4.1.0'
+[21:34:51.011][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.57'
+[21:34:51.011][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.8'
+[21:34:51.011][INFO][CraftTweaker]: - 'gamestages' at version '15.0.2'
+[21:34:51.011][INFO][CraftTweaker]: - 'immersiveengineering' at version '1.20.1-10.2.0-183'
+[21:34:51.011][INFO][CraftTweaker]: - 'sdmmobstages' at version '1.20.1-1.0.1'
+[21:35:10.119][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[21:35:10.749][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[21:35:10.780][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[21:35:10.847][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[21:35:31.889][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[21:35:31.928][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[21:35:31.951][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[21:35:31.966][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[21:35:35.242][INFO][CraftTweaker]: crafttweaker.reload.start
+[21:35:35.251][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[21:35:35.281][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[21:35:35.717][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[21:35:35.720][INFO][CraftTweaker-ZenCode]: Loading file 'spawning_stages.zs' with priority 0
+[21:35:35.745][INFO][CraftTweaker]: Registering event listener for net.minecraftforge.event.entity.player.AdvancementEvent$AdvancementEarnEvent
+[21:35:35.748][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@7a2cf82d added to stage_2.stage
+[21:35:35.748][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@2a41c871 added to stage_2.stage
+[21:35:35.749][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@3731a084 added to stage_2.stage
+[21:35:35.749][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@55ec685a added to stage_2.stage
+[21:35:35.749][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@412db169 added to stage_2.stage
+[21:35:35.749][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@658beb7d added to stage_2.stage
+[21:35:35.749][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@5f0452c8 added to stage_2.stage
+[21:35:35.749][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@699c5fca added to stage_2.stage
+[21:35:35.749][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@45961d69 added to stage_2.stage
+[21:35:35.749][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@7f7cc6a5 added to stage_2.stage
+[21:35:35.749][INFO][CraftTweaker]: Registering event listener for net.minecraftforge.event.entity.player.AdvancementEvent$AdvancementEarnEvent
+[21:35:35.749][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@2134990 added to stage_3.stage
+[21:35:35.749][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@97a3417 added to stage_3.stage
+[21:35:35.749][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@7cf20d04 added to stage_3.stage
+[21:35:35.749][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6522a5d1 added to stage_3.stage
+[21:35:35.749][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@7d652f2c added to stage_3.stage
+[21:35:35.749][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@25e7661b added to stage_3.stage
+[21:35:35.749][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@4991c58e added to stage_3.stage
+[21:35:35.749][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@396ded40 added to stage_3.stage
+[21:35:35.749][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6da5a90e added to stage_3.stage
+[21:35:35.749][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@73eccd1f added to stage_3.stage
+[21:35:35.749][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@3496db59 added to stage_3.stage
+[21:35:35.749][INFO][CraftTweaker]: Registering event listener for net.minecraftforge.event.entity.player.AdvancementEvent$AdvancementEarnEvent
+[21:35:35.749][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@62473766 added to stage_4.stage
+[21:35:35.750][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@22ea1ff9 added to stage_4.stage
+[21:35:35.750][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@37fbba8e added to stage_4.stage
+[21:35:35.750][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@3535e33b added to stage_4.stage
+[21:35:35.750][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6e120efc added to stage_4.stage
+[21:35:35.750][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@1cf5c110 added to stage_4.stage
+[21:35:35.750][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@763037ca added to stage_4.stage
+[21:35:35.750][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6c062e0c added to stage_4.stage
+[21:35:35.750][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@129da89e added to stage_4.stage
+[21:35:35.750][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@2052069c added to stage_4.stage
+[21:35:35.750][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@572bfb3b added to stage_4.stage
+[21:35:35.750][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@a00c99c added to stage_4.stage
+[21:35:35.750][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@75a6491a added to stage_4.stage
+[21:35:35.750][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@45f0c7d4 added to stage_4.stage
+[21:35:35.750][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@4d0a1e72 added to stage_4.stage
+[21:35:35.750][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@414a7266 added to stage_4.stage
+[21:35:35.750][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6e30dcc added to stage_4.stage
+[21:35:35.750][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@45eea4a3 added to stage_4.stage
+[21:35:35.750][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@580acbe2 added to stage_4.stage
+[21:35:35.750][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@4ac14bc7 added to stage_4.stage
+[21:35:35.750][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[21:35:35.751][INFO][CraftTweaker]: crafttweaker.reload.complete
+[21:35:35.752][INFO][CraftTweaker]: This reload was made possible by Jonathan McManus and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[21:35:44.542][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[21:35:44.542][INFO][CraftTweaker-ZenCode]: Undoing previous actions
+[21:35:44.568][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[21:35:44.572][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[21:35:44.583][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[21:35:47.053][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[21:35:47.053][INFO][CraftTweaker-ZenCode]: Undoing previous actions
+[21:35:47.053][INFO][CraftTweaker]: Unregistering event listener for net.minecraftforge.event.entity.player.AdvancementEvent$AdvancementEarnEvent
+[21:35:47.054][INFO][CraftTweaker]: Unregistering event listener for net.minecraftforge.event.entity.player.AdvancementEvent$AdvancementEarnEvent
+[21:35:47.054][INFO][CraftTweaker]: Unregistering event listener for net.minecraftforge.event.entity.player.AdvancementEvent$AdvancementEarnEvent
+[21:35:47.134][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[21:35:47.254][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[21:35:47.254][INFO][CraftTweaker-ZenCode]: Loading file 'spawning_stages.zs' with priority 0
+[21:35:47.272][INFO][CraftTweaker]: Registering event listener for net.minecraftforge.event.entity.player.AdvancementEvent$AdvancementEarnEvent
+[21:35:47.272][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@14f526f3 added to stage_2.stage
+[21:35:47.273][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@7cfca7e7 added to stage_2.stage
+[21:35:47.273][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@329f44af added to stage_2.stage
+[21:35:47.273][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@8a29e2a added to stage_2.stage
+[21:35:47.273][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@355df373 added to stage_2.stage
+[21:35:47.273][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@2c87b9a0 added to stage_2.stage
+[21:35:47.273][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@64752aa3 added to stage_2.stage
+[21:35:47.273][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@78baabc9 added to stage_2.stage
+[21:35:47.273][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@222609c6 added to stage_2.stage
+[21:35:47.274][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@33fdfe9b added to stage_2.stage
+[21:35:47.274][INFO][CraftTweaker]: Registering event listener for net.minecraftforge.event.entity.player.AdvancementEvent$AdvancementEarnEvent
+[21:35:47.274][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@7e90fa75 added to stage_3.stage
+[21:35:47.274][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@53d9e28d added to stage_3.stage
+[21:35:47.274][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@41a3b909 added to stage_3.stage
+[21:35:47.274][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@1df69e80 added to stage_3.stage
+[21:35:47.274][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@64cc8c19 added to stage_3.stage
+[21:35:47.274][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@789dc787 added to stage_3.stage
+[21:35:47.274][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@24aa426c added to stage_3.stage
+[21:35:47.274][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@d01cae7 added to stage_3.stage
+[21:35:47.274][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@dad231a added to stage_3.stage
+[21:35:47.274][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@1b1a7cd7 added to stage_3.stage
+[21:35:47.274][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6d55e4fa added to stage_3.stage
+[21:35:47.274][INFO][CraftTweaker]: Registering event listener for net.minecraftforge.event.entity.player.AdvancementEvent$AdvancementEarnEvent
+[21:35:47.274][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6e005d45 added to stage_4.stage
+[21:35:47.274][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@ad1066c added to stage_4.stage
+[21:35:47.274][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@42e52f25 added to stage_4.stage
+[21:35:47.274][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@d561b7 added to stage_4.stage
+[21:35:47.274][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6cd3fe9d added to stage_4.stage
+[21:35:47.274][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6e33670d added to stage_4.stage
+[21:35:47.275][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@5c4e1e9 added to stage_4.stage
+[21:35:47.275][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@2eb7f03f added to stage_4.stage
+[21:35:47.275][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@5de3c462 added to stage_4.stage
+[21:35:47.275][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@289dcbdc added to stage_4.stage
+[21:35:47.275][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@af4ac8f added to stage_4.stage
+[21:35:47.275][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@1b5383e6 added to stage_4.stage
+[21:35:47.275][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@58d0943a added to stage_4.stage
+[21:35:47.275][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@1ed577d7 added to stage_4.stage
+[21:35:47.275][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@316a2056 added to stage_4.stage
+[21:35:47.275][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@36a1c92e added to stage_4.stage
+[21:35:47.275][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@6a0cfa84 added to stage_4.stage
+[21:35:47.275][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@5f5243dd added to stage_4.stage
+[21:35:47.275][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@3fdaa0f1 added to stage_4.stage
+[21:35:47.275][INFO][Mob Stages]: Mobs [Lnet.minecraft.world.entity.EntityType;@70af69d added to stage_4.stage
+[21:35:47.275][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[21:35:47.276][INFO][CraftTweaker]: This reload was made possible by Pongo Sapiens and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod

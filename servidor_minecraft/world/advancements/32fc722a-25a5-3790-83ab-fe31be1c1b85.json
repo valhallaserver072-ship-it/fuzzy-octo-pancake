@@ -77,6 +77,10 @@
       "autumnal_maple_forest": "2025-08-03 23:55:44 +0000",
       "muddy_river": "2025-08-04 00:43:29 +0000",
       "redstone_caves": "2025-08-04 03:05:06 +0000",
+      "poppy_fields": "2025-08-07 21:43:59 +0000",
+      "rocky_meadow": "2025-08-07 21:47:08 +0000",
+      "ochard": "2025-08-07 21:44:11 +0000",
+      "highland_fields": "2025-08-07 21:44:02 +0000",
       "maple_forest": "2025-08-04 00:22:52 +0000",
       "boreal_forest": "2025-08-04 02:42:33 +0000",
       "temperate_grove": "2025-08-04 00:44:51 +0000",
@@ -92,6 +96,10 @@
       "shrubland": "2025-08-04 00:43:53 +0000",
       "autumnal_maple_forest": "2025-08-03 23:55:44 +0000",
       "muddy_river": "2025-08-04 00:43:29 +0000",
+      "poppy_fields": "2025-08-07 21:43:59 +0000",
+      "rocky_meadow": "2025-08-07 21:47:08 +0000",
+      "ochard": "2025-08-07 21:44:11 +0000",
+      "highland_fields": "2025-08-07 21:44:02 +0000",
       "maple_forest": "2025-08-04 00:22:52 +0000",
       "boreal_forest": "2025-08-04 02:42:33 +0000",
       "temperate_grove": "2025-08-04 00:44:51 +0000",
@@ -3699,6 +3707,36 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-08-07 04:24:38 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-08-07 21:12:16 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/casting_sand": {
+    "criteria": {
+      "has_sand": "2025-08-07 21:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-07 21:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-08-07 21:49:19 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/sand": {
+    "criteria": {
+      "has_copper_block": "2025-08-07 21:49:19 +0000"
     },
     "done": true
   },
