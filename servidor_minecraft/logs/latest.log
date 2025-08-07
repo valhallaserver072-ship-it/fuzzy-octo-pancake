@@ -5059,3 +5059,14 @@ java.lang.IllegalStateException: not found
 [07Aug2025 20:08:18.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.808168411254883) to LOW (avg. 21.165983200073242)
 [07Aug2025 20:08:20.861] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
 [07Aug2025 20:08:25.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.165983200073242) to VERY_LOW (avg. 17.629589080810547)
+[07Aug2025 20:09:10.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.33861541748047) to LOW (avg. 20.6876220703125)
+[07Aug2025 20:09:25.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.6876220703125) to VERY_LOW (avg. 15.441825866699219)
+[07Aug2025 20:11:56.061] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:11:56.063] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:12:03.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.077072143554688) to LOW (avg. 20.763010025024414)
+[07Aug2025 20:12:10.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.763010025024414) to VERY_LOW (avg. 16.366397857666016)
+[07Aug2025 20:16:48.059] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8332, l='ServerLevel[world]', x=533.01, y=-256.00, z=26.32] died, message: 'Villager was killed'
+[07Aug2025 20:16:48.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.37049674987793) to LOW (avg. 27.48867416381836)
+[07Aug2025 20:16:55.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.48867416381836) to VERY_LOW (avg. 16.544607162475586)
+[07Aug2025 20:17:13.112] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:17:32.514] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
