@@ -74,29 +74,40 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "silver_birch_forest": "2025-08-07 22:17:24 +0000",
+      "pine_taiga": "2025-08-07 22:28:42 +0000",
       "autumnal_maple_forest": "2025-08-06 23:28:44 +0000",
+      "prismachasm": "2025-08-07 22:26:16 +0000",
       "ancient_delta": "2025-08-07 22:13:46 +0000",
       "frozen_tundra": "2025-08-07 03:46:53 +0000",
       "poppy_fields": "2025-08-07 03:22:44 +0000",
+      "blackwood_taiga": "2025-08-07 22:28:34 +0000",
+      "ochard": "2025-08-07 22:26:19 +0000",
       "highland_fields": "2025-08-07 03:23:14 +0000",
       "maple_forest": "2025-08-06 23:29:17 +0000",
       "mountains": "2025-08-07 22:17:40 +0000",
+      "temperate_grove": "2025-08-07 22:32:46 +0000",
       "cold_river": "2025-08-06 23:43:26 +0000",
-      "pumpkin_fields": "2025-08-07 00:23:31 +0000"
+      "pumpkin_fields": "2025-08-07 00:23:31 +0000",
+      "redwoods": "2025-08-07 22:30:19 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
       "silver_birch_forest": "2025-08-07 22:17:24 +0000",
+      "pine_taiga": "2025-08-07 22:28:42 +0000",
       "autumnal_maple_forest": "2025-08-06 23:28:44 +0000",
       "frozen_tundra": "2025-08-07 03:46:53 +0000",
       "poppy_fields": "2025-08-07 03:22:44 +0000",
+      "blackwood_taiga": "2025-08-07 22:28:34 +0000",
+      "ochard": "2025-08-07 22:26:19 +0000",
       "highland_fields": "2025-08-07 03:23:14 +0000",
       "maple_forest": "2025-08-06 23:29:17 +0000",
       "mountains": "2025-08-07 22:17:40 +0000",
+      "temperate_grove": "2025-08-07 22:32:46 +0000",
       "cold_river": "2025-08-06 23:43:26 +0000",
-      "pumpkin_fields": "2025-08-07 00:23:31 +0000"
+      "pumpkin_fields": "2025-08-07 00:23:31 +0000",
+      "redwoods": "2025-08-07 22:30:19 +0000"
     },
     "done": false
   },
@@ -884,6 +895,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-08-07 01:28:49 +0000",
+      "minecraft:river": "2025-08-07 22:26:43 +0000",
       "minecraft:stony_shore": "2025-08-07 00:23:51 +0000",
       "minecraft:grove": "2025-08-07 00:54:56 +0000",
       "minecraft:jagged_peaks": "2025-08-07 22:17:42 +0000",
@@ -2803,6 +2815,7 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
+      "prismachasm": "2025-08-07 22:26:16 +0000",
       "ancient_delta": "2025-08-07 22:13:46 +0000"
     },
     "done": false
@@ -2825,6 +2838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-07 22:33:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-08-07 22:03:06 +0000"
@@ -2843,6 +2862,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-07 22:33:14 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/cooking/glow_berry_marmalade": {
+    "criteria": {
+      "has_glow_berries": "2025-08-07 22:24:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-08-07 22:03:06 +0000"
@@ -2852,6 +2883,12 @@
   "immersivegeology:recipes/misc/crafting/craft_blinding_fluid": {
     "criteria": {
       "has_clay": "2025-08-07 22:00:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-07 22:24:10 +0000"
     },
     "done": true
   },

@@ -87,6 +87,7 @@
       "poppy_fields": "2025-08-04 07:39:05 +0000",
       "grassy_beach": "2025-08-07 02:45:19 +0000",
       "rocky_meadow": "2025-08-04 09:54:12 +0000",
+      "blackwood_taiga": "2025-08-07 22:28:34 +0000",
       "ochard": "2025-08-04 09:19:23 +0000",
       "flower_fields": "2025-08-07 02:46:03 +0000",
       "highland_fields": "2025-08-04 07:39:13 +0000",
@@ -124,6 +125,7 @@
       "poppy_fields": "2025-08-04 07:39:05 +0000",
       "grassy_beach": "2025-08-07 02:45:19 +0000",
       "rocky_meadow": "2025-08-04 09:54:12 +0000",
+      "blackwood_taiga": "2025-08-07 22:28:34 +0000",
       "ochard": "2025-08-04 09:19:23 +0000",
       "flower_fields": "2025-08-07 02:46:03 +0000",
       "highland_fields": "2025-08-04 07:39:13 +0000",
@@ -8639,6 +8641,48 @@
   "farmersrespite:recipes/food/black_cod": {
     "criteria": {
       "has_cod": "2025-08-07 21:42:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "blue_bioshroom": "2025-08-07 22:29:03 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-08-07 22:28:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-08-07 22:28:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_bioshroom": {
+    "criteria": {
+      "has_blue_bioshroom": "2025-08-07 22:29:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_bioshroom_block": {
+    "criteria": {
+      "has_blue_bioshroom": "2025-08-07 22:29:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_blue_bioshroom": {
+    "criteria": {
+      "has_blue_bioshroom": "2025-08-07 22:29:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-08-07 22:28:47 +0000"
     },
     "done": true
   },

@@ -5651,3 +5651,174 @@ java.lang.IllegalStateException: not found
 [07Aug2025 22:24:10.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cax_T hit the ground too hard
 [07Aug2025 22:24:24.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10051ms or 201 ticks behind
 [07Aug2025 22:24:32.456] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:24:43.937] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:24:45.666] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:24:49.188] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10005ms or 200 ticks behind
+[07Aug2025 22:24:59.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fred31212 has made the advancement [A Seedy Place]
+[07Aug2025 22:25:01.998] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11736, l='ServerLevel[world]', x=-286.41, y=-22.00, z=-626.34, removed=DISCARDED]
+[07Aug2025 22:25:02.083] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11736, l='ServerLevel[world]', x=-286.41, y=-22.00, z=-626.34, removed=DISCARDED]
+[07Aug2025 22:25:08.886] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:25:09.206] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:25:10.432] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:25:14.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9956ms or 199 ticks behind
+[07Aug2025 22:25:17.159] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=750, y=102, z=263}
+[07Aug2025 22:25:20.207] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=750, y=101, z=263}
+[07Aug2025 22:25:23.853] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=750, y=101, z=264}
+[07Aug2025 22:25:33.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Spectator Mode]
+[07Aug2025 22:25:39.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10582ms or 211 ticks behind
+[07Aug2025 22:25:42.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to Alex554]
+[07Aug2025 22:25:44.991] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:25:46.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set the weather to clear]
+[07Aug2025 22:25:53.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to -1263.500000, 158.000000, 552.500000]
+[07Aug2025 22:26:02.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7442ms or 148 ticks behind
+[07Aug2025 22:26:11.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to -841.500000, 227.369334, 497.500000]
+[07Aug2025 22:26:23.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Creative Mode]
+[07Aug2025 22:26:24.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7825ms or 156 ticks behind
+[07Aug2025 22:26:29.369] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:26:31.697] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:26:31.698] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:26:34.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cax_T was crushed by a falling tree
+[07Aug2025 22:26:35.012] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:26:37.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thes912> XD
+[07Aug2025 22:26:42.444] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:26:42.446] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:26:46.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alex554> JAJAJAJA
+[07Aug2025 22:26:47.556] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:26:48.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8711ms or 174 ticks behind
+[07Aug2025 22:27:10.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7320ms or 146 ticks behind
+[07Aug2025 22:27:11.715] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:27:16.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank38kyt was slain by Spider
+[07Aug2025 22:27:17.869] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91140, l='ServerLevel[world]', x=-828.29, y=50.00, z=293.20, removed=DISCARDED]
+[07Aug2025 22:27:17.936] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91146, l='ServerLevel[world]', x=-821.13, y=100.00, z=294.07, removed=DISCARDED]
+[07Aug2025 22:27:18.135] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/91142, l='ServerLevel[world]', x=-827.51, y=107.00, z=289.13, removed=DISCARDED]
+[07Aug2025 22:27:30.989] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:27:31.404] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:27:31.406] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:27:32.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6563ms or 131 ticks behind
+[07Aug2025 22:27:35.439] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:27:36.187] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:27:53.576] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:27:53.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6526ms or 130 ticks behind
+[07Aug2025 22:28:14.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5594ms or 111 ticks behind
+[07Aug2025 22:28:14.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to -848.500000, 162.500000, 474.500000]
+[07Aug2025 22:28:19.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Alex554 to Cax_T]
+[07Aug2025 22:28:22.098] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:28:22.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Alex554 to Thes912]
+[07Aug2025 22:28:22.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cax_T fell from a high place
+[07Aug2025 22:28:26.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Cax_T to Thes912]
+[07Aug2025 22:28:32.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Frank38kyt to Thes912]
+[07Aug2025 22:28:32.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3362ms or 67 ticks behind
+[07Aug2025 22:28:33.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set own game mode to Survival Mode]
+[07Aug2025 22:28:35.870] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:28:50.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fred31212 moved too quickly! -4.820432006324722,-5.0,-7.285377231003508
+[07Aug2025 22:28:50.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2979ms or 59 ticks behind
+[07Aug2025 22:28:54.571] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:29:09.291] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:29:09.292] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:29:14.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9128ms or 182 ticks behind
+[07Aug2025 22:29:18.962] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:29:34.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4780ms or 95 ticks behind
+[07Aug2025 22:29:35.301] [Server thread/WARN] [com.ferreusveritas.dynamictrees.tree.species.Species/]: Block Block{dynamictrees:oak_undergrowth_leaves} not valid leaves for Species{registryName=dtru:oak_poplar}.
+[07Aug2025 22:29:36.561] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:29:44.516] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:29:44.753] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:29:55.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5764ms or 115 ticks behind
+[07Aug2025 22:30:08.248] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:30:10.001] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:30:14.833] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:30:14.834] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:30:14.836] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:30:15.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4715ms or 94 ticks behind
+[07Aug2025 22:30:24.699] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:30:26.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zack_201> xaero-waypoint:Shared Location:S:921:65:-792:13:false:0:Internal-overworld-waypoints
+[07Aug2025 22:30:30.184] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:30:34.637] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:30:34.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4756ms or 95 ticks behind
+[07Aug2025 22:30:45.710] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:30:50.796] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:30:55.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5477ms or 109 ticks behind
+[07Aug2025 22:30:57.799] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:31:01.603] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:31:07.131] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:31:10.996] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:31:13.374] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:31:15.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5629ms or 112 ticks behind
+[07Aug2025 22:31:16.236] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:31:22.139] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:31:24.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Created team [1]]
+[07Aug2025 22:31:27.171] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:31:32.585] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:31:33.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Updated the color for team [1] to green]
+[07Aug2025 22:31:36.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6019ms or 120 ticks behind
+[07Aug2025 22:31:38.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Updated the color for team [1] to dark_green]
+[07Aug2025 22:31:39.123] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:31:40.307] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:31:56.485] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:31:57.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5511ms or 110 ticks behind
+[07Aug2025 22:31:59.150] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/126252, l='ServerLevel[world]', x=1071.30, y=1.00, z=-838.23, removed=DISCARDED]
+[07Aug2025 22:31:59.227] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/126252, l='ServerLevel[world]', x=1071.30, y=1.00, z=-838.23, removed=DISCARDED]
+[07Aug2025 22:32:03.112] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:32:08.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set spawn point to -833, 162, 457 [0.0] in minecraft:overworld for Frank38kyt]
+[07Aug2025 22:32:11.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set spawn point to -833, 162, 457 [0.0] in minecraft:overworld for Alex554]
+[07Aug2025 22:32:14.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set spawn point to -833, 162, 457 [0.0] in minecraft:overworld for Thes912]
+[07Aug2025 22:32:17.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5316ms or 106 ticks behind
+[07Aug2025 22:32:20.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Set spawn point to -833, 162, 457 [0.0] in minecraft:overworld for Cax_T]
+[07Aug2025 22:32:35.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3088ms or 61 ticks behind
+[07Aug2025 22:32:42.948] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.613521575927734) to HIGH (avg. 49.07077407836914)
+[07Aug2025 22:32:54.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[07Aug2025 22:32:59.443] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 49.07077407836914) to VERY_HIGH (avg. 55.553688049316406)
+[07Aug2025 22:33:06.322] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:33:11.506] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:33:12.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3051ms or 61 ticks behind
+[07Aug2025 22:33:21.090] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:33:25.247] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:33:29.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Created team [2]]
+[07Aug2025 22:33:33.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6506ms or 130 ticks behind
+[07Aug2025 22:33:40.652] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank38kyt lost connection: Disconnected
+[07Aug2025 22:33:40.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank38kyt left the game
+[07Aug2025 22:33:40.653] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Frank38kyt
+[07Aug2025 22:33:40.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Updated the color for team [2] to light_purple]
+[07Aug2025 22:33:45.347] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:33:49.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Added fred31212 to team [2]]
+[07Aug2025 22:33:49.321] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:33:51.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Added Isu_Name to team [2]]
+[07Aug2025 22:33:55.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6805ms or 136 ticks behind
+[07Aug2025 22:33:56.167] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:33:58.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Added AllToAllies to team [2]]
+[07Aug2025 22:34:02.563] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:34:06.172] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:34:12.010] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:34:12.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zack_201> xaero-waypoint:Shared Location:S:1253:78:-245:14:false:0:Internal-overworld-waypoints
+[07Aug2025 22:34:14.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Added Alex554 to team [1]]
+[07Aug2025 22:34:15.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5160ms or 103 ticks behind
+[07Aug2025 22:34:17.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Added fred31212 to team [1]]
+[07Aug2025 22:34:24.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Added Cax_T to team [1]]
+[07Aug2025 22:34:30.429] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:34:30.430] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:34:35.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4952ms or 99 ticks behind
+[07Aug2025 22:34:39.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zack_201> xaero-waypoint:Shared Location:S:1253:78:-245:14:false:0:Internal-overworld-waypoints
+[07Aug2025 22:34:44.896] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:34:50.726] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:34:54.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3964ms or 79 ticks behind
+[07Aug2025 22:35:03.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isu_Name> fred esta verde
+[07Aug2025 22:35:09.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to Zack_201]
+[07Aug2025 22:35:10.115] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:35:10.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isu_Name> ya no pertenece aqui
+[07Aug2025 22:35:12.771] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:35:12.772] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:35:13.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3422ms or 68 ticks behind
+[07Aug2025 22:35:17.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Isu_Name> traidor
+[07Aug2025 22:35:22.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Removed Alex554 from any team]
+[07Aug2025 22:35:24.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Removed fred31212 from any team]
+[07Aug2025 22:35:25.289] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:35:26.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Removed Cax_T from any team]
+[07Aug2025 22:35:26.920] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:35:26.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alex554> Fred ahora es nuestro
+[07Aug2025 22:35:30.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alex554> al parecer
+[07Aug2025 22:35:31.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3250ms or 65 ticks behind
+[07Aug2025 22:35:34.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fred31212> XD
+[07Aug2025 22:35:37.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Thes912 moved too quickly! 9.31820812315027,1.8338907390617862,-3.294929132893884
+[07Aug2025 22:35:49.787] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:35:49.788] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:35:49.969] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 22:35:51.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5324ms or 106 ticks behind
