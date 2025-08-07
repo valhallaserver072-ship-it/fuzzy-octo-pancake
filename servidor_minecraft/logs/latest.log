@@ -5147,3 +5147,12 @@ java.lang.IllegalStateException: not found
 [07Aug2025 20:37:52.049] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17159, l='ServerLevel[world]', x=575.85, y=-256.00, z=-35.23] died, message: 'Villager was killed'
 [07Aug2025 20:38:00.166] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
 [07Aug2025 20:38:29.050] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17315, l='ServerLevel[world]', x=575.85, y=-256.00, z=-35.23] died, message: 'Villager was killed'
+[07Aug2025 20:39:33.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.05840492248535) to LOW (avg. 23.458572387695312)
+[07Aug2025 20:39:48.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.458572387695312) to VERY_LOW (avg. 17.00901985168457)
+[07Aug2025 20:42:07.050] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17744, l='ServerLevel[world]', x=575.73, y=-256.00, z=-34.67] died, message: 'Villager was killed'
+[07Aug2025 20:42:26.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 was slain by Phantom
+[07Aug2025 20:44:18.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.906387329101562) to LOW (avg. 20.48781967163086)
+[07Aug2025 20:44:33.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.48781967163086) to VERY_LOW (avg. 14.855058670043945)
+[07Aug2025 20:45:24.515] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:47:09.765] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:47:35.513] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
