@@ -445,6 +445,7 @@
       "minecraft:cherry_grove": "2025-08-03 20:25:35 +0000",
       "minecraft:sunflower_plains": "2025-08-03 20:58:35 +0000",
       "minecraft:beach": "2025-08-05 01:51:20 +0000",
+      "minecraft:sparse_jungle": "2025-08-07 07:10:53 +0000",
       "minecraft:river": "2025-08-03 20:07:11 +0000",
       "minecraft:stony_shore": "2025-08-05 02:04:24 +0000",
       "minecraft:dripstone_caves": "2025-08-04 03:17:47 +0000",
@@ -3756,6 +3757,7 @@
       "salmon": "2025-08-04 02:44:45 +0000",
       "melon_slice": "2025-08-07 03:17:13 +0000",
       "cooked_chicken": "2025-08-06 07:50:14 +0000",
+      "cooked_salmon": "2025-08-07 06:34:35 +0000",
       "carrot": "2025-08-04 03:41:03 +0000"
     },
     "done": false
@@ -8264,27 +8266,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_candy_cavity": {
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
     "criteria": {
-      "discover": "2025-08-07 05:42:44 +0000"
-    },
-    "done": true
-  },
-  "tfmg:recipes/building_blocks/unfired_insulator_from_clay_stonecutting": {
-    "criteria": {
-      "has_clay": "2025-08-07 05:53:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-08-07 05:45:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2025-08-07 05:53:22 +0000"
+      "has_item": "2025-08-07 05:40:49 +0000"
     },
     "done": true
   },
@@ -8294,15 +8278,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+  "brewinandchewin:recipes/cooking/sweet_berry_jam": {
     "criteria": {
-      "has_item": "2025-08-07 05:40:49 +0000"
+      "has_sweet_berries": "2025-08-07 05:41:14 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/statue": {
+  "alexscaves:alexscaves/discover_candy_cavity": {
     "criteria": {
-      "has_clay": "2025-08-07 05:53:22 +0000"
+      "discover": "2025-08-07 05:42:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-08-07 05:44:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-08-07 05:45:50 +0000"
     },
     "done": true
   },
@@ -8318,31 +8314,19 @@
     },
     "done": true
   },
-  "brewinandchewin:recipes/cooking/sweet_berry_jam": {
-    "criteria": {
-      "has_sweet_berries": "2025-08-07 05:41:14 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:symphonyof_chaos": {
-    "criteria": {
-      "symphonyof_chaos_0": "2025-08-07 05:47:37 +0000"
-    },
-    "done": false
-  },
   "brewinandchewin:recipes/cooking/apple_jelly": {
     "criteria": {
       "has_apple": "2025-08-07 05:45:50 +0000"
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/ink_root": {
+  "dummmmmmy:recipes/dummy_crafting": {
     "criteria": {
-      "requirement": "2025-08-07 05:47:46 +0000"
+      "has_hay_block": "2025-08-07 05:45:50 +0000"
     },
     "done": true
   },
-  "dummmmmmy:recipes/dummy_crafting": {
+  "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-08-07 05:45:50 +0000"
     },
@@ -8354,15 +8338,207 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_book": {
+  "born_in_chaos_v1:symphonyof_chaos": {
     "criteria": {
-      "cave_book": "2025-08-07 05:44:06 +0000"
+      "symphonyof_chaos_0": "2025-08-07 05:47:37 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-08-07 05:47:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "tfmg:recipes/building_blocks/unfired_insulator_from_clay_stonecutting": {
     "criteria": {
-      "has_hay_block": "2025-08-07 05:45:50 +0000"
+      "has_clay": "2025-08-07 05:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-08-07 05:53:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_clay": "2025-08-07 05:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2025-08-07 08:59:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-08-07 07:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-08-07 08:43:23 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/misc/crafting/kinetics/fireproof_bricks": {
+    "criteria": {
+      "has_item": "2025-08-07 08:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-07 08:23:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-08-07 07:01:39 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/misc/crafting/kinetics/fireclay": {
+    "criteria": {
+      "has_item": "2025-08-07 08:43:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-07 08:43:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-07 08:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-07 08:23:13 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-07 08:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-08-07 08:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-08-07 08:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-08-07 08:43:23 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sawdust": {
+    "criteria": {
+      "has_sawdust": "2025-08-07 06:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-08-07 08:43:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-08-07 08:27:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-08-07 07:50:29 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-07 08:43:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-07 08:43:23 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/misc/smelting/fireproof_brick": {
+    "criteria": {
+      "has_item": "2025-08-07 08:43:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-07 08:43:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-08-07 08:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-08-07 08:43:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-07 08:23:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-08-07 07:50:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_bricks": {
+    "criteria": {
+      "has_ash_brick": "2025-08-07 06:57:31 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/proximity_fuze": {
+    "criteria": {
+      "has_quartz": "2025-08-07 08:43:23 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/paper_from_sawdust": {
+    "criteria": {
+      "has_sawdust": "2025-08-07 06:51:56 +0000"
     },
     "done": true
   },

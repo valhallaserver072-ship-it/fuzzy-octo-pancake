@@ -7741,15 +7741,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
-      "has_purple_dye": "2025-08-07 06:00:49 +0000"
+      "requirement": "2025-08-07 05:14:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_blue_dye": "2025-08-07 06:01:04 +0000"
+      "has_purple_dye": "2025-08-07 06:00:49 +0000"
     },
     "done": true
   },
@@ -7759,15 +7759,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-08-07 06:00:49 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-08-07 06:00:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-07 06:00:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-07 06:00:49 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-08-07 06:00:49 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/purple_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-07 06:00:49 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-08-07 06:00:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-07 06:00:49 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-08-07 06:00:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_purple_dye": {
+    "criteria": {
+      "forge:dyes/purple": "2025-08-07 06:00:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2025-08-07 06:01:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
-      "has_purple_dye": "2025-08-07 06:00:49 +0000"
+      "has_blue_dye": "2025-08-07 06:01:04 +0000"
     },
     "done": true
   },
@@ -7789,45 +7849,15 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_covered_purple": {
-    "criteria": {
-      "has_dyes/black": "2025-08-07 06:00:49 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/dense_covered_blue": {
     "criteria": {
       "has_dyes/black": "2025-08-07 06:01:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_purple_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-08-07 06:00:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-07 06:01:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-08-07 06:00:49 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2025-08-07 06:02:09 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pink_bioshroom_block": {
-    "criteria": {
-      "has_pink_bioshroom": "2025-08-07 06:10:03 +0000"
     },
     "done": true
   },
@@ -7840,12 +7870,6 @@
   "ae2:recipes/misc/network/cables/glass_blue": {
     "criteria": {
       "has_dyes/black": "2025-08-07 06:01:04 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_purple": {
-    "criteria": {
-      "has_dyes/black": "2025-08-07 06:00:49 +0000"
     },
     "done": true
   },
@@ -7873,24 +7897,6 @@
     },
     "done": true
   },
-  "createdeco:recipes/decorations/purple_placard_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-08-07 06:00:49 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_smart_purple": {
-    "criteria": {
-      "has_dyes/black": "2025-08-07 06:00:49 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/tall_pink_bioshroom": {
-    "criteria": {
-      "has_pink_bioshroom": "2025-08-07 06:10:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-07 06:01:04 +0000"
@@ -7909,33 +7915,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_purple_bed": {
+  "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
-      "has_needed_dye": "2025-08-07 06:00:49 +0000"
+      "killed_by": "2025-08-07 06:02:09 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/glass_purple": {
+  "regions_unexplored:recipes/building_blocks/pink_bioshroom_block": {
     "criteria": {
-      "has_dyes/black": "2025-08-07 06:00:49 +0000"
+      "has_pink_bioshroom": "2025-08-07 06:10:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_pink_bioshroom": {
+    "criteria": {
+      "has_pink_bioshroom": "2025-08-07 06:10:03 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/misc/pink_dye_from_pink_bioshroom": {
     "criteria": {
       "has_pink_bioshroom": "2025-08-07 06:10:03 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
-    "criteria": {
-      "requirement": "2025-08-07 05:14:34 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candle_holders/candle_holder_purple_dye": {
-    "criteria": {
-      "forge:dyes/purple": "2025-08-07 06:00:49 +0000"
     },
     "done": true
   },

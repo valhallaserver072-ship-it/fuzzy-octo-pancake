@@ -6456,6 +6456,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-08-07 05:13:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-08-07 05:13:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-08-07 05:13:35 +0000"
@@ -6465,18 +6477,6 @@
   "biomemakeover:biomemakeover/cladding_template": {
     "criteria": {
       "get_disc": "2025-08-07 05:13:35 +0000"
-    },
-    "done": true
-  },
-  "createbigcannons:recipes/misc/casting_sand": {
-    "criteria": {
-      "has_sand": "2025-08-07 05:20:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-08-07 05:58:14 +0000"
     },
     "done": true
   },
@@ -6492,24 +6492,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
-    "criteria": {
-      "has_pumpkin_slice": "2025-08-07 05:13:33 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pink_bioshroom_block": {
-    "criteria": {
-      "has_pink_bioshroom": "2025-08-07 05:54:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-08-07 05:20:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-08-07 05:13:35 +0000"
@@ -6522,12 +6504,6 @@
     },
     "done": true
   },
-  "regions_unexplored:mycologist": {
-    "criteria": {
-      "pink_bioshroom": "2025-08-07 05:54:19 +0000"
-    },
-    "done": false
-  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-08-07 05:13:35 +0000"
@@ -6537,18 +6513,6 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-08-07 05:13:35 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/blackstone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-08-07 05:17:04 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/end_stone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-08-07 05:17:04 +0000"
     },
     "done": true
   },
@@ -6564,33 +6528,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:wolf": "2025-08-07 05:58:14 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:recipes/decorations/tall_pink_bioshroom": {
-    "criteria": {
-      "has_pink_bioshroom": "2025-08-07 05:54:19 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/stone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-08-07 05:17:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-08-07 05:13:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-08-07 05:20:51 +0000"
     },
     "done": true
   },
@@ -6600,21 +6540,27 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "minecraft:recipes/misc/wheat": {
     "criteria": {
-      "traded": "2025-08-07 05:32:31 +0000"
+      "has_hay_block": "2025-08-07 05:13:35 +0000"
     },
     "done": true
   },
-  "immersive_weathering:recipes/sand": {
+  "supplementaries:recipes/blackstone_lamp": {
     "criteria": {
-      "has_copper_block": "2025-08-07 05:20:51 +0000"
+      "has_shroomlight": "2025-08-07 05:17:04 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/pink_dye_from_pink_bioshroom": {
+  "supplementaries:recipes/end_stone_lamp": {
     "criteria": {
-      "has_pink_bioshroom": "2025-08-07 05:54:19 +0000"
+      "has_shroomlight": "2025-08-07 05:17:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-08-07 05:17:04 +0000"
     },
     "done": true
   },
@@ -6630,15 +6576,141 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "createbigcannons:recipes/misc/casting_sand": {
     "criteria": {
-      "has_hay_block": "2025-08-07 05:13:35 +0000"
+      "has_sand": "2025-08-07 05:20:51 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "has_pumpkin_slice": "2025-08-07 05:13:33 +0000"
+      "has_sand": "2025-08-07 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-08-07 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/sand": {
+    "criteria": {
+      "has_copper_block": "2025-08-07 05:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-07 05:32:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pink_bioshroom_block": {
+    "criteria": {
+      "has_pink_bioshroom": "2025-08-07 05:54:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:mycologist": {
+    "criteria": {
+      "pink_bioshroom": "2025-08-07 05:54:19 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/decorations/tall_pink_bioshroom": {
+    "criteria": {
+      "has_pink_bioshroom": "2025-08-07 05:54:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pink_dye_from_pink_bioshroom": {
+    "criteria": {
+      "has_pink_bioshroom": "2025-08-07 05:54:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-08-07 05:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2025-08-07 05:58:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-07 06:24:46 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-08-07 06:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-08-07 06:15:17 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/tools/calendar": {
+    "criteria": {
+      "has_clock": "2025-08-07 06:40:25 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coal_coke_to_coke": {
+    "criteria": {
+      "has_coal_coke": "2025-08-07 06:40:59 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/misc/crafting/kinetics/lead_frame": {
+    "criteria": {
+      "has_item": "2025-08-07 06:41:00 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/coke_to_coal_coke": {
+    "criteria": {
+      "has_coke": "2025-08-07 06:40:59 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/get_ingot_from_lead_nuggets": {
+    "criteria": {
+      "has_nugget_lead": "2025-08-07 06:41:00 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/nugget_lead_to_ingot_lead": {
+    "criteria": {
+      "has_nugget_lead": "2025-08-07 06:41:00 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_lead_to_nugget_lead": {
+    "criteria": {
+      "has_ingot_lead": "2025-08-07 06:41:00 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/misc/crafting/kinetics/lead_truss": {
+    "criteria": {
+      "has_item": "2025-08-07 06:41:00 +0000"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/timed_fuze": {
+    "criteria": {
+      "has_clock": "2025-08-07 06:40:25 +0000"
     },
     "done": true
   },
