@@ -91,6 +91,7 @@
       "frozen_pine_taiga": "2025-08-06 08:12:18 +0000",
       "magnolia_highlands": "2025-08-04 09:57:28 +0000",
       "mountains": "2025-08-06 06:10:17 +0000",
+      "joshua_desert": "2025-08-07 02:02:38 +0000",
       "boreal_forest": "2025-08-04 06:48:10 +0000",
       "chalk_cliffs": "2025-08-07 02:02:00 +0000",
       "temperate_grove": "2025-08-04 06:58:32 +0000",
@@ -98,6 +99,8 @@
       "pumpkin_fields": "2025-08-04 06:59:46 +0000",
       "pine_slopes": "2025-08-04 05:19:10 +0000",
       "gravel_beach": "2025-08-06 00:29:25 +0000",
+      "redwoods": "2025-08-07 02:14:30 +0000",
+      "rainforest": "2025-08-07 02:03:42 +0000",
       "lupine_plains": "2025-08-04 05:48:29 +0000"
     },
     "done": false
@@ -119,6 +122,7 @@
       "frozen_pine_taiga": "2025-08-06 08:12:18 +0000",
       "magnolia_highlands": "2025-08-04 09:57:28 +0000",
       "mountains": "2025-08-06 06:10:17 +0000",
+      "joshua_desert": "2025-08-07 02:02:38 +0000",
       "boreal_forest": "2025-08-04 06:48:10 +0000",
       "chalk_cliffs": "2025-08-07 02:02:00 +0000",
       "temperate_grove": "2025-08-04 06:58:32 +0000",
@@ -126,6 +130,8 @@
       "pumpkin_fields": "2025-08-04 06:59:46 +0000",
       "pine_slopes": "2025-08-04 05:19:10 +0000",
       "gravel_beach": "2025-08-06 00:29:25 +0000",
+      "redwoods": "2025-08-07 02:14:30 +0000",
+      "rainforest": "2025-08-07 02:03:42 +0000",
       "lupine_plains": "2025-08-04 05:48:29 +0000"
     },
     "done": false
@@ -1721,6 +1727,7 @@
       "minecraft:cold_ocean": "2025-08-07 01:27:53 +0000",
       "minecraft:lush_caves": "2025-08-04 07:01:35 +0000",
       "minecraft:deep_cold_ocean": "2025-08-07 01:32:35 +0000",
+      "minecraft:jungle": "2025-08-07 02:15:55 +0000",
       "minecraft:warm_ocean": "2025-08-07 01:49:32 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-07 01:43:36 +0000",
       "minecraft:meadow": "2025-08-04 07:37:39 +0000",
@@ -2203,6 +2210,7 @@
       "palm_log": "2025-08-07 01:58:08 +0000",
       "pine_log": "2025-08-05 01:30:30 +0000",
       "silver_birch_log": "2025-08-06 04:13:31 +0000",
+      "redwood_log": "2025-08-07 02:17:49 +0000",
       "maple_log": "2025-08-04 07:25:19 +0000"
     },
     "done": false
@@ -7784,69 +7792,21 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/palm_beard_from_palm_log": {
-    "criteria": {
-      "has_log": "2025-08-07 01:58:08 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-08-07 01:39:53 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/chalk_pillar": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "has_chalk": "2025-08-07 02:02:16 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/polished_chalk": {
-    "criteria": {
-      "has_chalk": "2025-08-07 02:02:16 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/palm_wood": {
-    "criteria": {
-      "has_log": "2025-08-07 01:58:08 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/chalk_bricks_from_chalk_stonecutting": {
-    "criteria": {
-      "has_chalk": "2025-08-07 02:02:16 +0000"
+      "has_redstone_torch": "2025-08-07 01:43:06 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-08-07 01:51:39 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/chalk_stairs": {
-    "criteria": {
-      "has_chalk": "2025-08-07 02:02:16 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/chalk_slab_from_chalk_stonecutting": {
-    "criteria": {
-      "has_chalk": "2025-08-07 02:02:16 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/palm_planks": {
-    "criteria": {
-      "has_logs": "2025-08-07 01:58:08 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/chalk_grass_block": {
-    "criteria": {
-      "has_chalk": "2025-08-07 02:02:16 +0000"
     },
     "done": true
   },
@@ -7862,9 +7822,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
+  "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
-      "has_redstone_torch": "2025-08-07 01:43:06 +0000"
+      "cave_tablet": "2025-08-07 01:52:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-08-07 01:52:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/palm_beard_from_palm_log": {
+    "criteria": {
+      "has_log": "2025-08-07 01:58:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/palm_wood": {
+    "criteria": {
+      "has_log": "2025-08-07 01:58:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/palm_planks": {
+    "criteria": {
+      "has_logs": "2025-08-07 01:58:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_pillar": {
+    "criteria": {
+      "has_chalk": "2025-08-07 02:02:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/polished_chalk": {
+    "criteria": {
+      "has_chalk": "2025-08-07 02:02:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_bricks_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-08-07 02:02:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_stairs": {
+    "criteria": {
+      "has_chalk": "2025-08-07 02:02:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_slab_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-08-07 02:02:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_grass_block": {
+    "criteria": {
+      "has_chalk": "2025-08-07 02:02:16 +0000"
     },
     "done": true
   },
@@ -7880,27 +7900,117 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2025-08-07 01:52:04 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/polished_chalk_from_chalk_stonecutting": {
     "criteria": {
       "has_chalk": "2025-08-07 02:02:16 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2025-08-07 01:52:09 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/chalk_slab": {
     "criteria": {
       "has_chalk": "2025-08-07 02:02:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-08-07 02:02:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-08-07 02:03:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/yellow_dye_from_hibiscus": {
+    "criteria": {
+      "has_hibiscus": "2025-08-07 02:04:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-08-07 02:05:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-08-07 02:07:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
+    "criteria": {
+      "has_log": "2025-08-07 02:07:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-08-07 02:07:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
+    "criteria": {
+      "has_log": "2025-08-07 02:17:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-08-07 02:11:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-07 02:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-08-07 02:11:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-08-07 02:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-08-07 02:11:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-08-07 02:11:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-07 02:11:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_capuchin": {
+    "criteria": {
+      "tame": "2025-08-07 02:14:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-08-07 02:17:49 +0000"
     },
     "done": true
   },
