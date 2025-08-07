@@ -81,7 +81,8 @@
       "highland_fields": "2025-08-04 01:36:10 +0000",
       "maple_forest": "2025-08-03 23:54:40 +0000",
       "temperate_grove": "2025-08-04 00:44:58 +0000",
-      "cold_river": "2025-08-04 00:44:13 +0000"
+      "cold_river": "2025-08-04 00:44:13 +0000",
+      "pine_slopes": "2025-08-07 20:31:43 +0000"
     },
     "done": false
   },
@@ -93,7 +94,8 @@
       "highland_fields": "2025-08-04 01:36:10 +0000",
       "maple_forest": "2025-08-03 23:54:40 +0000",
       "temperate_grove": "2025-08-04 00:44:58 +0000",
-      "cold_river": "2025-08-04 00:44:13 +0000"
+      "cold_river": "2025-08-04 00:44:13 +0000",
+      "pine_slopes": "2025-08-07 20:31:43 +0000"
     },
     "done": false
   },
@@ -2587,6 +2589,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_white_tulip": "2025-08-04 18:36:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
+    "criteria": {
+      "has_white_trillium": "2025-08-07 20:34:40 +0000"
     },
     "done": true
   },

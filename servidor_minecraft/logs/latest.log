@@ -5070,3 +5070,80 @@ java.lang.IllegalStateException: not found
 [07Aug2025 20:16:55.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.48867416381836) to VERY_LOW (avg. 16.544607162475586)
 [07Aug2025 20:17:13.112] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
 [07Aug2025 20:17:32.514] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:20:26.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 has made the advancement [Not Today, Thank You]
+[07Aug2025 20:21:56.050] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9360, l='ServerLevel[world]', x=533.01, y=-256.00, z=26.32] died, message: 'Villager was killed'
+[07Aug2025 20:23:49.049] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9634, l='ServerLevel[world]', x=533.01, y=-256.00, z=26.32] died, message: 'Villager was killed'
+[07Aug2025 20:24:20.961] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:25:41.064] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:25:52.049] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10013, l='ServerLevel[world]', x=575.85, y=-256.00, z=-35.23] died, message: 'Villager was killed'
+[07Aug2025 20:27:12.049] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10297, l='ServerLevel[world]', x=575.73, y=-256.00, z=-34.67] died, message: 'Villager was killed'
+[07Aug2025 20:27:34.050] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10343, l='ServerLevel[world]', x=575.85, y=-256.00, z=-35.23] died, message: 'Villager was killed'
+[07Aug2025 20:28:17.547] [ForkJoinPool.commonPool-worker-10/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:Cax_T'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.4.2+1.20-forge.jar%23436!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[skinrestorer-2.4.2+1.20-forge.jar%23436!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[skinrestorer-2.4.2+1.20-forge.jar%23436!/:2.4.2+1.20-forge]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[skinrestorer-2.4.2+1.20-forge.jar%23436!/:2.4.2+1.20-forge]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdac78de$skinrestorer$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:1582) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:1581) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdac78de$skinrestorer$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:1566) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[07Aug2025 20:28:17.674] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cax_T[/127.129.49.172:56579] logged in with entity id 10445 at (33.59587728123318, 112.5, -45.87879876441087)
+[07Aug2025 20:28:17.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cax_T joined the game
+[07Aug2025 20:28:17.772] [Server thread/INFO] [APTweaks(Player)/]: Player Cax_T ServerPlayer['Cax_T'/10445, l='ServerLevel[world]', x=33.60, y=112.50, z=-45.88] logged in and will be protected for 90 secs.
+[07Aug2025 20:28:18.200] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.249204635620117) to LOW (avg. 27.74603843688965)
+[07Aug2025 20:28:18.847] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player cax_t has successfully logged in.
+[07Aug2025 20:28:18.873] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Cax_T (18)
+[07Aug2025 20:28:18.874] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Cax_T
+[07Aug2025 20:28:29.676] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0966e1f5-230a-311d-8c72-1937278273e2
+[07Aug2025 20:28:30.676] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0966e1f5-230a-311d-8c72-1937278273e2
+[07Aug2025 20:28:30.677] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Cax_T (0966e1f5-230a-311d-8c72-1937278273e2) successfully connected to voice chat
+[07Aug2025 20:28:34.197] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Cax_T was successful validated after 16 secs.
+[07Aug2025 20:28:34.197] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Cax_T!
+[07Aug2025 20:28:44.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cax_T> hola bro
+[07Aug2025 20:29:04.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 has made the advancement [Ol' Betsy]
+[07Aug2025 20:29:24.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuuichiro425> hola
+[07Aug2025 20:29:36.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cax_T> es de noche
+[07Aug2025 20:29:46.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuuichiro425> si no me deja dormir
+[07Aug2025 20:30:00.732] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:30:09.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cax_T broke their hands punching stone
+[07Aug2025 20:30:20.050] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11861, l='ServerLevel[world]', x=533.01, y=-256.00, z=26.32] died, message: 'Villager was killed'
+[07Aug2025 20:30:33.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cax_T was slain by Nightmare Stalker
+[07Aug2025 20:30:39.825] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:30:46.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cax_T was blown up by Creeper
+[07Aug2025 20:31:08.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cax_T was slain by Enderman
+[07Aug2025 20:31:11.477] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:31:23.480] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:31:23.482] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:31:28.578] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/3167, l='ServerLevel[world]', x=523.50, y=77.00, z=32.50] died, message: 'Weaponsmith was slain by Zombie Villager'
+[07Aug2025 20:32:42.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cax_T was slain by Spider
+[07Aug2025 20:32:51.980] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:32:52.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cax_T> bro que tan lejos estas del obby?
+[07Aug2025 20:33:01.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuuichiro425> mucho
+[07Aug2025 20:33:09.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Cax_T> mierda
+[07Aug2025 20:33:09.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuuichiro425> y es de noche
+[07Aug2025 20:33:24.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cax_T was slain by Pig
+[07Aug2025 20:34:07.522] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:34:28.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cax_T was slain by Corpse Fish
+[07Aug2025 20:34:34.923] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:35:17.578] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:35:27.874] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:36:25.723] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:37:24.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cax_T was slain by Zombie
+[07Aug2025 20:37:31.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=18, y=157, z=74} BlockPos{x=19, y=156, z=74}
+[07Aug2025 20:37:34.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cax_T lost connection: Disconnected
+[07Aug2025 20:37:34.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cax_T left the game
+[07Aug2025 20:37:34.825] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Cax_T
+[07Aug2025 20:37:48.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.82741928100586) to VERY_LOW (avg. 17.422374725341797)
+[07Aug2025 20:37:52.049] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17159, l='ServerLevel[world]', x=575.85, y=-256.00, z=-35.23] died, message: 'Villager was killed'
+[07Aug2025 20:38:00.166] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:38:29.050] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/17315, l='ServerLevel[world]', x=575.85, y=-256.00, z=-35.23] died, message: 'Villager was killed'
