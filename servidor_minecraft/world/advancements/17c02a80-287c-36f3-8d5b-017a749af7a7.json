@@ -8368,33 +8368,21 @@
     },
     "done": true
   },
-  "minecraft:husbandry/fishy_business": {
+  "immersiveengineering:recipes/misc/crafting/sawdust": {
     "criteria": {
-      "salmon": "2025-08-07 08:59:34 +0000"
+      "has_sawdust": "2025-08-07 06:51:56 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+  "immersiveengineering:recipes/misc/crafting/paper_from_sawdust": {
     "criteria": {
-      "beef_patty": "2025-08-07 07:50:29 +0000"
+      "has_sawdust": "2025-08-07 06:51:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/comparator": {
+  "supplementaries:recipes/ash_bricks": {
     "criteria": {
-      "has_quartz": "2025-08-07 08:43:23 +0000"
-    },
-    "done": true
-  },
-  "tfmg:recipes/misc/crafting/kinetics/fireproof_bricks": {
-    "criteria": {
-      "has_item": "2025-08-07 08:43:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-08-07 08:23:13 +0000"
+      "has_ash_brick": "2025-08-07 06:57:31 +0000"
     },
     "done": true
   },
@@ -8404,9 +8392,51 @@
     },
     "done": true
   },
-  "tfmg:recipes/misc/crafting/kinetics/fireclay": {
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
     "criteria": {
-      "has_item": "2025-08-07 08:43:25 +0000"
+      "beef_patty": "2025-08-07 07:50:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-08-07 07:50:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-08-07 07:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-07 08:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-07 08:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-07 08:23:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-08-07 08:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-08-07 08:43:23 +0000"
     },
     "done": true
   },
@@ -8419,12 +8449,6 @@
   "ae2:recipes/misc/tools/nether_quartz_spade": {
     "criteria": {
       "has_nether_quartz": "2025-08-07 08:43:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-08-07 08:23:13 +0000"
     },
     "done": true
   },
@@ -8452,27 +8476,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/sawdust": {
-    "criteria": {
-      "has_sawdust": "2025-08-07 06:51:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-08-07 08:43:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/hamburger": {
-    "criteria": {
-      "has_beef_patty": "2025-08-07 08:27:05 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty": {
-    "criteria": {
-      "beef_patty": "2025-08-07 07:50:29 +0000"
     },
     "done": true
   },
@@ -8485,12 +8491,6 @@
   "ae2:recipes/misc/tools/nether_quartz_hoe": {
     "criteria": {
       "has_nether_quartz": "2025-08-07 08:43:23 +0000"
-    },
-    "done": true
-  },
-  "tfmg:recipes/misc/smelting/fireproof_brick": {
-    "criteria": {
-      "has_item": "2025-08-07 08:43:25 +0000"
     },
     "done": true
   },
@@ -8512,33 +8512,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-08-07 08:23:13 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty_from_smoking": {
-    "criteria": {
-      "beef_patty": "2025-08-07 07:50:29 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/ash_bricks": {
-    "criteria": {
-      "has_ash_brick": "2025-08-07 06:57:31 +0000"
-    },
-    "done": true
-  },
   "createbigcannons:recipes/misc/proximity_fuze": {
     "criteria": {
       "has_quartz": "2025-08-07 08:43:23 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/paper_from_sawdust": {
+  "tfmg:recipes/misc/crafting/kinetics/fireproof_bricks": {
     "criteria": {
-      "has_sawdust": "2025-08-07 06:51:56 +0000"
+      "has_item": "2025-08-07 08:43:25 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/misc/crafting/kinetics/fireclay": {
+    "criteria": {
+      "has_item": "2025-08-07 08:43:25 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/misc/smelting/fireproof_brick": {
+    "criteria": {
+      "has_item": "2025-08-07 08:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2025-08-07 08:59:34 +0000"
     },
     "done": true
   },

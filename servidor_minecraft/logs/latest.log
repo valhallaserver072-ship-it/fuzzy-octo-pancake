@@ -5159,3 +5159,78 @@ java.lang.IllegalStateException: not found
 [07Aug2025 20:54:03.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuuichiro425 lost connection: Disconnected
 [07Aug2025 20:54:03.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 left the game
 [07Aug2025 20:54:03.660] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Yuuichiro425
+[07Aug2025 21:02:51.470] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank38kyt[/127.209.174.238:39071] logged in with entity id 20562 at (-0.05151817827441252, 158.0, 68.64310970368012)
+[07Aug2025 21:02:51.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank38kyt joined the game
+[07Aug2025 21:02:51.566] [Server thread/INFO] [APTweaks(Player)/]: Player Frank38kyt ServerPlayer['Frank38kyt'/20562, l='ServerLevel[world]', x=-0.05, y=158.00, z=68.64] logged in and will be protected for 90 secs.
+[07Aug2025 21:02:52.697] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player frank38kyt has successfully logged in.
+[07Aug2025 21:02:52.759] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Frank38kyt (18)
+[07Aug2025 21:02:52.760] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Frank38kyt
+[07Aug2025 21:03:03.202] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.158483505249023) to NORMAL (avg. 45.36968231201172)
+[07Aug2025 21:03:03.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Thes912[/127.87.215.63:49233] logged in with entity id 20636 at (-259.2437417008275, 64.0, -671.5818553919285)
+[07Aug2025 21:03:03.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Thes912 joined the game
+[07Aug2025 21:03:03.889] [Server thread/INFO] [APTweaks(Player)/]: Player Thes912 ServerPlayer['Thes912'/20636, l='ServerLevel[world]', x=-259.24, y=64.00, z=-671.58] logged in and will be protected for 90 secs.
+[07Aug2025 21:03:04.734] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player thes912 has successfully logged in.
+[07Aug2025 21:03:05.373] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Thes912 (18)
+[07Aug2025 21:03:05.374] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Thes912
+[07Aug2025 21:03:05.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[07Aug2025 21:03:05.553] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3f426686-2962-3162-9488-12b5861c9d28
+[07Aug2025 21:03:06.556] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3f426686-2962-3162-9488-12b5861c9d28
+[07Aug2025 21:03:06.557] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Frank38kyt (3f426686-2962-3162-9488-12b5861c9d28) successfully connected to voice chat
+[07Aug2025 21:03:12.729] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.36968231201172) to MEDIUM (avg. 46.02364730834961)
+[07Aug2025 21:03:13.947] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 38.49223935) to MEDIUM (avg. 41.36321315)
+[07Aug2025 21:03:14.269] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 17c02a80-287c-36f3-8d5b-017a749af7a7
+[07Aug2025 21:03:15.273] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 17c02a80-287c-36f3-8d5b-017a749af7a7
+[07Aug2025 21:03:15.274] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Thes912 (17c02a80-287c-36f3-8d5b-017a749af7a7) successfully connected to voice chat
+[07Aug2025 21:03:21.047] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Thes912 was successful validated after 17 secs.
+[07Aug2025 21:03:21.047] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Thes912!
+[07Aug2025 21:03:27.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.02364730834961) to LOW (avg. 31.606487274169922)
+[07Aug2025 21:03:49.747] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Frank38kyt was successful validated after 58 secs.
+[07Aug2025 21:03:49.747] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Frank38kyt!
+[07Aug2025 21:05:26.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank38kyt fell from a high place
+[07Aug2025 21:07:05.413] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alex554[/127.1.60.167:55823] logged in with entity id 22867 at (-481.68543910206137, 118.0, -545.5238267059611)
+[07Aug2025 21:07:05.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex554 joined the game
+[07Aug2025 21:07:05.449] [Server thread/INFO] [APTweaks(Player)/]: Player Alex554 ServerPlayer['Alex554'/22867, l='ServerLevel[world]', x=-481.69, y=118.00, z=-545.52] logged in and will be protected for 90 secs.
+[07Aug2025 21:07:10.359] [Netty Epoll Server IO #4/INFO] [simplelogin/]: Player alex554 has successfully logged in.
+[07Aug2025 21:07:10.379] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Alex554 (18)
+[07Aug2025 21:07:10.380] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Alex554
+[07Aug2025 21:07:12.728] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.5187873840332) to MEDIUM (avg. 47.76454162597656)
+[07Aug2025 21:07:20.209] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.76454162597656) to HIGH (avg. 49.62783432006836)
+[07Aug2025 21:07:20.796] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 32fc722a-25a5-3790-83ab-fe31be1c1b85
+[07Aug2025 21:07:21.798] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 32fc722a-25a5-3790-83ab-fe31be1c1b85
+[07Aug2025 21:07:21.798] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Alex554 (32fc722a-25a5-3790-83ab-fe31be1c1b85) successfully connected to voice chat
+[07Aug2025 21:07:22.947] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Alex554 was successful validated after 17 secs.
+[07Aug2025 21:07:22.947] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Alex554!
+[07Aug2025 21:07:33.230] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zack_201[/127.74.115.109:60031] logged in with entity id 23314 at (-260.7668614734044, 64.0, -671.5663242595913)
+[07Aug2025 21:07:33.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zack_201 joined the game
+[07Aug2025 21:07:33.339] [Server thread/INFO] [APTweaks(Player)/]: Player Zack_201 ServerPlayer['Zack_201'/23314, l='ServerLevel[world]', x=-260.77, y=64.00, z=-671.57] logged in and will be protected for 90 secs.
+[07Aug2025 21:07:35.424] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.62783432006836) to NORMAL (avg. 43.04978942871094)
+[07Aug2025 21:07:38.338] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player zack_201 has successfully logged in.
+[07Aug2025 21:07:38.381] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Zack_201 (18)
+[07Aug2025 21:07:38.382] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Zack_201
+[07Aug2025 21:07:46.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Frank38kyt> pasen cords
+[07Aug2025 21:07:51.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex554 was shot by Skeleton
+[07Aug2025 21:07:51.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thes912> ya voy
+[07Aug2025 21:07:54.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Thes912> xD
+[07Aug2025 21:08:02.024] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3fa830de-284c-3e51-b197-89bb104c814a
+[07Aug2025 21:08:03.118] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3fa830de-284c-3e51-b197-89bb104c814a
+[07Aug2025 21:08:03.119] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Zack_201 (3fa830de-284c-3e51-b197-89bb104c814a) successfully connected to voice chat
+[07Aug2025 21:08:04.034] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 21:08:04.035] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 21:08:05.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.19341278076172) to LOW (avg. 39.414894104003906)
+[07Aug2025 21:08:08.047] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Zack_201 was successful validated after 34 secs.
+[07Aug2025 21:08:08.047] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Zack_201!
+[07Aug2025 21:08:12.583] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 21:08:27.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.128238677978516) to NORMAL (avg. 43.61994934082031)
+[07Aug2025 21:08:35.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.61994934082031) to LOW (avg. 39.74007034301758)
+[07Aug2025 21:08:44.732] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 21:08:50.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.74007034301758) to NORMAL (avg. 42.50320053100586)
+[07Aug2025 21:08:57.706] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.50320053100586) to MEDIUM (avg. 46.20389175415039)
+[07Aug2025 21:09:05.311] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.20389175415039) to VERY_HIGH (avg. 57.30847930908203)
+[07Aug2025 21:09:06.590] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from MEDIUM (avg. 45.60040829) to HIGH (avg. 47.57672118)
+[07Aug2025 21:09:12.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.30847930908203) to MEDIUM (avg. 48.650936126708984)
+[07Aug2025 21:09:22.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank38kyt was slain by Nightmare Stalker
+[07Aug2025 21:09:27.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.650936126708984) to LOW (avg. 37.83323669433594)
+[07Aug2025 21:09:36.387] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 21:09:42.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.83323669433594) to MEDIUM (avg. 46.50923538208008)
+[07Aug2025 21:09:50.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.50923538208008) to NORMAL (avg. 43.33895492553711)
+[07Aug2025 21:10:17.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Thes912: Teleported Thes912 to Alex554]
