@@ -81,6 +81,7 @@
       "prismachasm": "2025-08-06 05:04:52 +0000",
       "ancient_delta": "2025-08-05 02:53:02 +0000",
       "frozen_tundra": "2025-08-06 01:03:12 +0000",
+      "rocky_reef": "2025-08-07 01:56:42 +0000",
       "redstone_caves": "2025-08-04 05:29:54 +0000",
       "poppy_fields": "2025-08-04 07:39:05 +0000",
       "rocky_meadow": "2025-08-04 09:54:12 +0000",
@@ -91,6 +92,7 @@
       "magnolia_highlands": "2025-08-04 09:57:28 +0000",
       "mountains": "2025-08-06 06:10:17 +0000",
       "boreal_forest": "2025-08-04 06:48:10 +0000",
+      "chalk_cliffs": "2025-08-07 02:02:00 +0000",
       "temperate_grove": "2025-08-04 06:58:32 +0000",
       "cold_river": "2025-08-04 06:59:09 +0000",
       "pumpkin_fields": "2025-08-04 06:59:46 +0000",
@@ -108,6 +110,7 @@
       "autumnal_maple_forest": "2025-08-04 04:47:29 +0000",
       "muddy_river": "2025-08-04 05:59:28 +0000",
       "frozen_tundra": "2025-08-06 01:03:12 +0000",
+      "rocky_reef": "2025-08-07 01:56:42 +0000",
       "poppy_fields": "2025-08-04 07:39:05 +0000",
       "rocky_meadow": "2025-08-04 09:54:12 +0000",
       "ochard": "2025-08-04 09:19:23 +0000",
@@ -117,6 +120,7 @@
       "magnolia_highlands": "2025-08-04 09:57:28 +0000",
       "mountains": "2025-08-06 06:10:17 +0000",
       "boreal_forest": "2025-08-04 06:48:10 +0000",
+      "chalk_cliffs": "2025-08-07 02:02:00 +0000",
       "temperate_grove": "2025-08-04 06:58:32 +0000",
       "cold_river": "2025-08-04 06:59:09 +0000",
       "pumpkin_fields": "2025-08-04 06:59:46 +0000",
@@ -2196,6 +2200,7 @@
     "criteria": {
       "magnolia_log": "2025-08-04 09:57:48 +0000",
       "larch_log": "2025-08-04 06:48:10 +0000",
+      "palm_log": "2025-08-07 01:58:08 +0000",
       "pine_log": "2025-08-05 01:30:30 +0000",
       "silver_birch_log": "2025-08-06 04:13:31 +0000",
       "maple_log": "2025-08-04 07:25:19 +0000"
@@ -7779,15 +7784,69 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/palm_beard_from_palm_log": {
+    "criteria": {
+      "has_log": "2025-08-07 01:58:08 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-08-07 01:39:53 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/chalk_pillar": {
+    "criteria": {
+      "has_chalk": "2025-08-07 02:02:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/polished_chalk": {
+    "criteria": {
+      "has_chalk": "2025-08-07 02:02:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/palm_wood": {
+    "criteria": {
+      "has_log": "2025-08-07 01:58:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_bricks_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-08-07 02:02:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-08-07 01:51:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_stairs": {
+    "criteria": {
+      "has_chalk": "2025-08-07 02:02:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_slab_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-08-07 02:02:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/palm_planks": {
+    "criteria": {
+      "has_logs": "2025-08-07 01:58:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_grass_block": {
+    "criteria": {
+      "has_chalk": "2025-08-07 02:02:16 +0000"
     },
     "done": true
   },
@@ -7809,15 +7868,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/chalk_pillar_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-08-07 02:02:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_stairs_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-08-07 02:02:16 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2025-08-07 01:52:04 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/polished_chalk_from_chalk_stonecutting": {
+    "criteria": {
+      "has_chalk": "2025-08-07 02:02:16 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-08-07 01:52:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/chalk_slab": {
+    "criteria": {
+      "has_chalk": "2025-08-07 02:02:16 +0000"
     },
     "done": true
   },

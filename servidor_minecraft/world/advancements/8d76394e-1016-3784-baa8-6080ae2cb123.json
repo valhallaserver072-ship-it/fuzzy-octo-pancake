@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/basket": {
+    "criteria": {
+      "has_canvas": "2025-08-07 01:57:32 +0000"
+    },
+    "done": true
+  },
   "shieldexp:recipes/wooden_shield": {
     "criteria": {
       "has_stick": "2025-08-06 23:31:05 +0000"
@@ -149,6 +155,12 @@
     },
     "done": true
   },
+  "natprog:craft_flint_saw": {
+    "criteria": {
+      "get_flint_saw": "2025-08-07 01:58:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/bacon_sandwich": {
     "criteria": {
       "has_bacon": "2025-08-07 01:07:59 +0000"
@@ -189,6 +201,12 @@
   "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-08-07 00:28:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/book_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-08-07 01:57:32 +0000"
     },
     "done": true
   },
@@ -330,9 +348,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/alloybrick": {
+    "criteria": {
+      "has_brick": "2025-08-07 01:59:24 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "has_cobblestone": "2025-08-07 00:28:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/canvas_rug": {
+    "criteria": {
+      "has_canvas": "2025-08-07 01:57:32 +0000"
     },
     "done": true
   },
@@ -399,6 +429,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-07 01:09:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tatami_block_from_full": {
+    "criteria": {
+      "has_canvas": "2025-08-07 01:57:32 +0000"
     },
     "done": true
   },
@@ -489,6 +525,12 @@
   "storagedrawers:recipes/storagedrawers/gold_storage_upgrade": {
     "criteria": {
       "has_template": "2025-08-06 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/full_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2025-08-07 01:57:32 +0000"
     },
     "done": true
   },
@@ -774,6 +816,12 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/decorations/item_coaster": {
+    "criteria": {
+      "has_canvas": "2025-08-07 01:57:32 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/moss_clump": {
     "criteria": {
       "has_copper_block": "2025-08-07 00:29:10 +0000"
@@ -795,6 +843,12 @@
   "tfmg:recipes/misc/crafting/kinetics/copper_frame": {
     "criteria": {
       "has_item": "2025-08-07 01:21:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/canvas_sign": {
+    "criteria": {
+      "has_canvas": "2025-08-07 01:57:32 +0000"
     },
     "done": true
   },
@@ -840,6 +894,12 @@
   "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
     "criteria": {
       "has_straw": "2025-08-06 23:56:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/painting_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-08-07 01:57:32 +0000"
     },
     "done": true
   },
@@ -1017,6 +1077,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-08-06 23:49:25 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/stone_brick": {
+    "criteria": {
+      "has_copper_block": "2025-08-07 01:59:24 +0000"
     },
     "done": true
   },
@@ -1308,6 +1374,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/full_tatami_mat_from_halves": {
+    "criteria": {
+      "has_canvas": "2025-08-07 01:57:32 +0000"
+    },
+    "done": true
+  },
   "cold_sweat:root": {
     "criteria": {
       "requirement": "2025-08-06 23:28:43 +0000"
@@ -1323,6 +1395,12 @@
   "supplementaries:recipes/slingshot": {
     "criteria": {
       "forge:rods/wooden": "2025-08-06 23:31:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/hanging_canvas_sign": {
+    "criteria": {
+      "has_canvas": "2025-08-07 01:57:32 +0000"
     },
     "done": true
   },
@@ -1476,6 +1554,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/half_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2025-08-07 01:57:32 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
       "in_water": "2025-08-06 23:43:26 +0000"
@@ -1551,6 +1635,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-07 01:09:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tatami": {
+    "criteria": {
+      "has_canvas": "2025-08-07 01:57:32 +0000"
     },
     "done": true
   },
@@ -1665,6 +1755,12 @@
   "storagedrawers:recipes/storagedrawers/bamboo_trim": {
     "criteria": {
       "has_planks": "2025-08-06 23:29:35 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blastbrick": {
+    "criteria": {
+      "has_item": "2025-08-07 01:59:24 +0000"
     },
     "done": true
   },
@@ -1839,6 +1935,12 @@
   "farmersdelight:main/harvest_straw": {
     "criteria": {
       "harvest_straw": "2025-08-06 23:56:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/scaffolding_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-08-07 01:57:32 +0000"
     },
     "done": true
   },
