@@ -4953,3 +4953,39 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [07Aug2025 18:39:20.644] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for ae2:spatial_storage changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.21843745)
 [07Aug2025 18:39:26.797] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 21.929027670000004) to NORMAL (avg. 36.42536972)
 [07Aug2025 18:39:33.047] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 37.982723236083984) to VERY_LOW (avg. 1.870823621749878)
+[07Aug2025 19:34:57.570] [ForkJoinPool.commonPool-worker-3/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:Yuuichiro425'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.4.2+1.20-forge.jar%23436!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[skinrestorer-2.4.2+1.20-forge.jar%23436!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[skinrestorer-2.4.2+1.20-forge.jar%23436!/:2.4.2+1.20-forge]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[skinrestorer-2.4.2+1.20-forge.jar%23436!/:2.4.2+1.20-forge]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdac78de$skinrestorer$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:1582) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:1581) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdac78de$skinrestorer$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:1566) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[07Aug2025 19:34:57.836] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuuichiro425[/127.179.214.139:48149] logged in with entity id 61 at (574.6999999880791, 76.0, -29.30000001192093)
+[07Aug2025 19:34:58.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 joined the game
+[07Aug2025 19:34:58.104] [Server thread/INFO] [APTweaks(Player)/]: Player Yuuichiro425 ServerPlayer['Yuuichiro425'/61, l='ServerLevel[world]', x=574.70, y=76.00, z=-29.30] logged in and will be protected for 90 secs.
+[07Aug2025 19:34:58.345] [Netty Epoll Server IO #1/INFO] [immersiveengineering/]: Recipes for potions: minecraft:water_breathing, minecraft:long_poison, alexscaves:long_haste, alexsmobs:strong_knockback_resistance, minecraft:swiftness, alexsmobs:speed_iii, minecraft:poison, alexsmobs:long_knockback_resistance, minecraft:long_night_vision, minecraft:long_slow_falling, alexsmobs:bug_pheromones, alexsmobs:long_clinging, minecraft:invisibility, irons_spellbooks:instant_mana_three, cold_sweat:long_ice_resistance, alexscaves:glowing, minecraft:slowness, alexsmobs:strong_soulsteal, minecraft:regeneration, minecraft:long_fire_resistance, minecraft:long_strength, quark:long_resilience, quark:strong_resilience, alexsmobs:long_lava_vision, minecraft:night_vision, alexscaves:magnetizing, minecraft:long_water_breathing, minecraft:long_slowness, mutantmonsters:chemical_x, biomemakeover:nocturnal_pot, irons_spellbooks:instant_mana_two, alexscaves:long_glowing, biomemakeover:actidote_pot, minecraft:strong_poison, minecraft:long_weakness, alexscaves:strong_haste, alexscaves:haste, alexsmobs:long_soulsteal, minecraft:strong_healing, minecraft:long_leaping, alexsmobs:poison_resistance, minecraft:strong_strength, quark:resilience, alexscaves:long_magnetizing, minecraft:leaping, minecraft:fire_resistance, alexsmobs:soulsteal, minecraft:strong_turtle_master, biomemakeover:long_nocturnal_pot, cold_sweat:ice_resistance, mowziesmobs:poison_resist, minecraft:water, alexsmobs:clinging, minecraft:strength, minecraft:strong_slowness, minecraft:strong_swiftness, mowziesmobs:long_poison_resist, minecraft:strong_leaping, minecraft:long_swiftness, minecraft:slow_falling, alexsmobs:lava_vision, alexscaves:deepsight, minecraft:long_invisibility, alexscaves:long_sugar_rush, minecraft:strong_harming, irons_spellbooks:instant_mana_one, alexscaves:sugar_rush, minecraft:healing, minecraft:awkward, minecraft:strong_regeneration, alexsmobs:long_poison_resistance, alexsmobs:knockback_resistance, minecraft:long_regeneration, minecraft:long_turtle_master, alexscaves:long_deepsight, alexsmobs:long_bug_pheromones, minecraft:harming, minecraft:weakness, irons_spellbooks:instant_mana_four, minecraft:turtle_master
+[07Aug2025 19:34:59.398] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player yuuichiro425 has successfully logged in.
+[07Aug2025 19:35:05.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7684ms or 153 ticks behind
+[07Aug2025 19:35:05.466] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Yuuichiro425 (18)
+[07Aug2025 19:35:05.467] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Yuuichiro425
+[07Aug2025 19:35:10.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 1.0912319421768188) to LOW (avg. 38.25749206542969)
+[07Aug2025 19:35:12.518] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0dc1716d-6324-3292-88fc-ee819627c835
+[07Aug2025 19:35:13.564] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0dc1716d-6324-3292-88fc-ee819627c835
+[07Aug2025 19:35:13.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Yuuichiro425 (0dc1716d-6324-3292-88fc-ee819627c835) successfully connected to voice chat
+[07Aug2025 19:35:18.247] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Yuuichiro425 was successful validated after 20 secs.
+[07Aug2025 19:35:18.248] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Yuuichiro425!
+[07Aug2025 19:35:20.522] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 19:35:48.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.16852378845215) to VERY_LOW (avg. 18.593231201171875)
+[07Aug2025 19:36:57.763] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
