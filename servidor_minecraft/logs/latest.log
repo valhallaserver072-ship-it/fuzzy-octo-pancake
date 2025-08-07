@@ -5156,3 +5156,6 @@ java.lang.IllegalStateException: not found
 [07Aug2025 20:45:24.515] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
 [07Aug2025 20:47:09.765] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
 [07Aug2025 20:47:35.513] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:54:03.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuuichiro425 lost connection: Disconnected
+[07Aug2025 20:54:03.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 left the game
+[07Aug2025 20:54:03.660] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Yuuichiro425
