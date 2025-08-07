@@ -228,6 +228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-08-07 01:42:37 +0000"
+    },
+    "done": true
+  },
   "meetyourfight:main/root": {
     "criteria": {
       "killed_by_something": "2025-08-06 23:40:22 +0000"
@@ -501,6 +507,12 @@
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-08-07 01:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-08-07 01:49:18 +0000"
     },
     "done": true
   },
@@ -1677,6 +1689,12 @@
   "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
       "has_item": "2025-08-07 01:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-08-07 01:42:37 +0000"
     },
     "done": true
   },

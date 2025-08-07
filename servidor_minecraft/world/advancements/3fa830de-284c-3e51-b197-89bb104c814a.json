@@ -1717,6 +1717,8 @@
       "minecraft:cold_ocean": "2025-08-07 01:27:53 +0000",
       "minecraft:lush_caves": "2025-08-04 07:01:35 +0000",
       "minecraft:deep_cold_ocean": "2025-08-07 01:32:35 +0000",
+      "minecraft:warm_ocean": "2025-08-07 01:49:32 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-07 01:43:36 +0000",
       "minecraft:meadow": "2025-08-04 07:37:39 +0000",
       "minecraft:plains": "2025-08-06 06:14:44 +0000"
     },
@@ -7780,6 +7782,42 @@
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-08-07 01:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-08-07 01:51:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-08-07 01:51:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-08-07 01:51:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-07 01:43:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-08-07 01:52:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-08-07 01:52:09 +0000"
     },
     "done": true
   },
