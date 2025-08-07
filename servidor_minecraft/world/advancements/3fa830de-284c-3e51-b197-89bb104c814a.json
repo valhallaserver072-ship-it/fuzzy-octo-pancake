@@ -8806,6 +8806,12 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/fermenting/scarlet_cheese_from_milk": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 22:56:18 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/q/regions_unexplored/mauve_post": {
     "criteria": {
       "has_item": "2025-08-07 22:42:12 +0000"
@@ -8848,6 +8854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 22:56:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_mauve": {
     "criteria": {
       "has_item": "2025-08-07 22:42:12 +0000"
@@ -8860,9 +8872,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-08-07 22:56:18 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/blue_dye_from_meadow_sage": {
     "criteria": {
       "has_meadow_sage": "2025-08-07 22:38:34 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/food/nether_wart_sourdough": {
+    "criteria": {
+      "has_wart": "2025-08-07 22:56:18 +0000"
     },
     "done": true
   },

@@ -3954,6 +3954,8 @@
     "criteria": {
       "glow_berries": "2025-08-07 22:48:25 +0000",
       "sweet_berries": "2025-08-04 06:19:44 +0000",
+      "sugar_cane": "2025-08-07 22:57:12 +0000",
+      "potato": "2025-08-07 22:56:28 +0000",
       "wheat": "2025-08-07 22:24:59 +0000",
       "carrot": "2025-08-07 22:25:23 +0000"
     },
@@ -5120,6 +5122,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-08-07 22:34:21 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/create_peat_farmland": {
+    "criteria": {
+      "create_peat": "2025-08-07 22:55:28 +0000"
     },
     "done": true
   },
