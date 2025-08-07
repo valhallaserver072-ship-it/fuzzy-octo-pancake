@@ -76,6 +76,7 @@
       "shrubland": "2025-08-04 01:06:34 +0000",
       "autumnal_maple_forest": "2025-08-04 00:30:55 +0000",
       "muddy_river": "2025-08-04 00:56:13 +0000",
+      "redstone_caves": "2025-08-07 20:05:09 +0000",
       "maple_forest": "2025-08-04 00:54:21 +0000",
       "boreal_forest": "2025-08-04 02:42:38 +0000",
       "temperate_grove": "2025-08-04 00:56:27 +0000",
@@ -2923,6 +2924,12 @@
       "has_kelp": "2025-08-04 02:45:10 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-08-07 20:05:09 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

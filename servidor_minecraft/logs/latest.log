@@ -5031,3 +5031,31 @@ java.lang.IllegalStateException: not found
 [07Aug2025 19:54:24.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Yuuichiro425 (0dc1716d-6324-3292-88fc-ee819627c835) successfully connected to voice chat
 [07Aug2025 19:54:28.297] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Yuuichiro425 was successful validated after 29 secs.
 [07Aug2025 19:54:28.297] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Yuuichiro425!
+[07Aug2025 19:58:39.020] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:00:39.411] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:00:39.413] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:03:22.735] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Frank38kyt[/127.209.174.238:35749] logged in with entity id 4579 at (272.11405250264426, 70.0, 740.6603804691159)
+[07Aug2025 20:03:22.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank38kyt joined the game
+[07Aug2025 20:03:22.785] [Server thread/INFO] [APTweaks(Player)/]: Player Frank38kyt ServerPlayer['Frank38kyt'/4579, l='ServerLevel[world]', x=272.11, y=70.00, z=740.66] logged in and will be protected for 90 secs.
+[07Aug2025 20:03:24.013] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player frank38kyt has successfully logged in.
+[07Aug2025 20:03:24.030] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Frank38kyt (18)
+[07Aug2025 20:03:24.031] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Frank38kyt
+[07Aug2025 20:03:25.708] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.673704147338867) to LOW (avg. 33.473453521728516)
+[07Aug2025 20:03:36.938] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3f426686-2962-3162-9488-12b5861c9d28
+[07Aug2025 20:03:37.939] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3f426686-2962-3162-9488-12b5861c9d28
+[07Aug2025 20:03:37.940] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Frank38kyt (3f426686-2962-3162-9488-12b5861c9d28) successfully connected to voice chat
+[07Aug2025 20:03:41.797] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Frank38kyt was successful validated after 19 secs.
+[07Aug2025 20:03:41.797] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Frank38kyt!
+[07Aug2025 20:04:11.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank38kyt was slain by Nightmare Stalker
+[07Aug2025 20:04:45.973] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:04:48.277] [Server thread/WARN] [mixinsquared-canceller/]: Cancelled mixin com.drmangotea.tfmg.mixin.FluidPropagatorMixin. Check debug logs for more information.
+[07Aug2025 20:06:03.778] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:06:37.572] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:07:18.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank38kyt fell from a high place
+[07Aug2025 20:07:24.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Frank38kyt lost connection: Disconnected
+[07Aug2025 20:07:24.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Frank38kyt left the game
+[07Aug2025 20:07:24.421] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Frank38kyt
+[07Aug2025 20:07:33.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 36.231170654296875) to VERY_LOW (avg. 16.71946144104004)
+[07Aug2025 20:08:18.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.808168411254883) to LOW (avg. 21.165983200073242)
+[07Aug2025 20:08:20.861] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 20:08:25.697] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.165983200073242) to VERY_LOW (avg. 17.629589080810547)
