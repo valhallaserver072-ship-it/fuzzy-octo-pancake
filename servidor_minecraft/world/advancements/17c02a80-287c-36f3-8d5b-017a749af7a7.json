@@ -3750,6 +3750,7 @@
       "porkchop": "2025-08-04 01:02:50 +0000",
       "tropical_fish": "2025-08-06 06:52:46 +0000",
       "mutton": "2025-08-04 00:49:17 +0000",
+      "bread": "2025-08-07 00:23:11 +0000",
       "rotten_flesh": "2025-08-04 02:38:53 +0000",
       "glow_berries": "2025-08-06 03:48:16 +0000",
       "salmon": "2025-08-04 02:44:45 +0000",
@@ -5842,7 +5843,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "wheat": "2025-08-04 23:56:35 +0000"
+      "wheat": "2025-08-04 23:56:35 +0000",
+      "carrot": "2025-08-07 00:29:23 +0000"
     },
     "done": false
   },
@@ -5855,7 +5857,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-08-05 00:04:49 +0000",
-      "minecraft:bee": "2025-08-06 08:02:39 +0000"
+      "minecraft:bee": "2025-08-06 08:02:39 +0000",
+      "minecraft:pig": "2025-08-07 00:41:32 +0000"
     },
     "done": false
   },
@@ -7830,6 +7833,96 @@
   "immersiveengineering:recipes/misc/crafting/jerrycan": {
     "criteria": {
       "has_bucket": "2025-08-06 08:31:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-08-07 01:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-07 00:56:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-08-07 01:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-07 00:56:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-08-07 01:03:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-07 01:06:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "bacon_and_eggs": "2025-08-07 01:11:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-07 00:56:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-08-07 01:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-08-07 00:28:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-08-07 01:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-08-07 00:56:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-08-07 01:11:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2025-08-07 01:04:50 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/flaxen_cheese_from_milk": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-08-07 00:11:24 +0000"
     },
     "done": true
   },

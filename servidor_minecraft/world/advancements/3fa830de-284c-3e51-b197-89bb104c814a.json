@@ -1456,6 +1456,7 @@
       "porkchop": "2025-08-04 09:57:16 +0000",
       "tropical_fish": "2025-08-06 07:31:18 +0000",
       "mutton": "2025-08-06 00:15:33 +0000",
+      "bread": "2025-08-07 00:06:22 +0000",
       "rotten_flesh": "2025-08-06 08:01:08 +0000",
       "glow_berries": "2025-08-06 06:23:36 +0000",
       "cooked_chicken": "2025-08-04 08:50:04 +0000",
@@ -1706,13 +1707,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-08-06 08:57:16 +0000",
+      "minecraft:deep_ocean": "2025-08-07 01:32:40 +0000",
       "minecraft:cherry_grove": "2025-08-04 07:38:00 +0000",
       "minecraft:river": "2025-08-04 06:58:10 +0000",
       "minecraft:stony_shore": "2025-08-06 00:26:20 +0000",
       "minecraft:swamp": "2025-08-04 06:10:41 +0000",
       "minecraft:grove": "2025-08-05 01:11:42 +0000",
       "minecraft:jagged_peaks": "2025-08-06 00:33:33 +0000",
+      "minecraft:cold_ocean": "2025-08-07 01:27:53 +0000",
       "minecraft:lush_caves": "2025-08-04 07:01:35 +0000",
+      "minecraft:deep_cold_ocean": "2025-08-07 01:32:35 +0000",
       "minecraft:meadow": "2025-08-04 07:37:39 +0000",
       "minecraft:plains": "2025-08-06 06:14:44 +0000"
     },
@@ -7665,9 +7669,9 @@
     },
     "done": true
   },
-  "biomemakeover:biomemakeover/create_peat_farmland": {
+  "immersiveengineering:recipes/misc/crafting/jerrycan": {
     "criteria": {
-      "create_peat": "2025-08-06 08:50:48 +0000"
+      "has_bucket": "2025-08-06 08:36:54 +0000"
     },
     "done": true
   },
@@ -7683,15 +7687,93 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/jerrycan": {
+  "biomemakeover:biomemakeover/create_peat_farmland": {
     "criteria": {
-      "has_bucket": "2025-08-06 08:36:54 +0000"
+      "create_peat": "2025-08-06 08:50:48 +0000"
     },
     "done": true
   },
   "regions_unexplored:recipes/misc/light_blue_dye_from_felicia_daisy": {
     "criteria": {
       "has_felicia_daisy": "2025-08-06 08:55:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-08-07 01:05:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_oak_sign": "2025-08-07 00:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-06 23:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/kill_axolotl_target": {
+    "criteria": {
+      "kill_axolotl_target": "2025-08-07 00:56:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-08-07 00:28:16 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-08-07 00:11:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-08-07 01:30:01 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/craft_bronze_plate_with_bronze_hammer": {
+    "criteria": {
+      "has_bronze_work_hammer": "2025-08-06 23:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-06 23:34:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
+    "criteria": {
+      "has_daisy": "2025-08-07 00:32:10 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/misc/crafting/craft_copper_plate_with_bronze_hammer": {
+    "criteria": {
+      "has_bronze_work_hammer": "2025-08-06 23:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-06 23:34:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2025-08-07 01:05:34 +0000"
     },
     "done": true
   },

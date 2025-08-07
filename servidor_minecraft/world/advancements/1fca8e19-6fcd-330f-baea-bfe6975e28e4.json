@@ -89,6 +89,7 @@
       "autumnal_maple_forest": "2025-08-04 00:00:04 +0000",
       "muddy_river": "2025-08-04 00:25:11 +0000",
       "prismachasm": "2025-08-04 00:21:02 +0000",
+      "frozen_tundra": "2025-08-06 23:49:39 +0000",
       "redstone_caves": "2025-08-04 00:02:26 +0000",
       "poppy_fields": "2025-08-04 00:58:37 +0000",
       "rocky_meadow": "2025-08-04 00:53:37 +0000",
@@ -110,6 +111,7 @@
       "shrubland": "2025-08-04 00:43:46 +0000",
       "autumnal_maple_forest": "2025-08-04 00:00:04 +0000",
       "muddy_river": "2025-08-04 00:25:11 +0000",
+      "frozen_tundra": "2025-08-06 23:49:39 +0000",
       "poppy_fields": "2025-08-04 00:58:37 +0000",
       "rocky_meadow": "2025-08-04 00:53:37 +0000",
       "ochard": "2025-08-04 00:57:52 +0000",
@@ -1021,6 +1023,7 @@
       "minecraft:old_growth_pine_taiga": "2025-08-04 00:49:59 +0000",
       "minecraft:cherry_grove": "2025-08-04 00:58:40 +0000",
       "minecraft:river": "2025-08-04 00:25:23 +0000",
+      "minecraft:stony_shore": "2025-08-07 00:19:02 +0000",
       "minecraft:swamp": "2025-08-04 00:44:25 +0000",
       "minecraft:meadow": "2025-08-04 00:59:08 +0000"
     },
@@ -1719,6 +1722,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-08-04 02:17:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-04 02:20:18 +0000"
+    },
+    "done": true
+  },
   "createbigcannons:recipes/misc/wrought_iron_cannon_chamber": {
     "criteria": {
       "has_gunpowder": "2025-08-04 02:20:29 +0000"
@@ -1743,12 +1758,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/dog_food": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-04 02:20:18 +0000"
-    },
-    "done": true
-  },
   "createbigcannons:recipes/misc/log_cannon_chamber": {
     "criteria": {
       "has_gunpowder": "2025-08-04 02:20:29 +0000"
@@ -1764,12 +1773,6 @@
   "createbigcannons:recipes/misc/cannon_mount": {
     "criteria": {
       "has_gunpowder": "2025-08-04 02:20:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2025-08-04 02:17:22 +0000"
     },
     "done": true
   },
@@ -1839,15 +1842,525 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-04 02:20:29 +0000"
+    },
+    "done": true
+  },
   "natprog:craft_bone_pick": {
     "criteria": {
       "get_bone_pickaxe": "2025-08-04 02:24:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "immersivegeology:recipes/tools/crafting/craft_geologist_pick": {
     "criteria": {
-      "has_gunpowder": "2025-08-04 02:20:29 +0000"
+      "has_bronze_ingot": "2025-08-06 23:43:13 +0000"
+    },
+    "done": true
+  },
+  "immersivegeology:recipes/tools/crafting/craft_igtoolkit_2": {
+    "criteria": {
+      "has_stone": "2025-08-06 23:43:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/turn_table": {
+    "criteria": {
+      "has_cobblestone": "2025-08-06 23:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-08-06 23:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-06 23:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-08-06 23:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-08-06 23:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-08-06 23:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-08-06 23:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-06 23:43:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_cobblestone": "2025-08-06 23:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-08-06 23:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-06 23:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-08-06 23:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-06 23:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-08-06 23:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-06 23:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-06 23:43:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_vertical_slab_revert": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_hanging_sign": {
+    "criteria": {
+      "has_stripped_maple_log": "2025-08-07 00:13:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brown_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "natprog:craft_planks": {
+    "criteria": {
+      "get_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_chest": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:huddle_close": {
+    "criteria": {
+      "requirement": "2025-08-07 00:04:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/vertical_maple_planks": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/red_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/maple_window_pane": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/green_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bed_from_feather_block": {
+    "criteria": {
+      "minecraft:planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/maple_half_drawers_1": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/maple_half_drawers_2": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/maple_half_drawers_4": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_maple": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "minecraft:planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/hollow_maple_log": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_post": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/stripped_maple_post": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lock_block": {
+    "criteria": {
+      "minecraft:planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_trapped_chest": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/black_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-08-07 00:06:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stripped_maple_wood": {
+    "criteria": {
+      "has_log": "2025-08-07 00:13:01 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/maple_trim": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/bp/regions_unexplored/maple_backpack_shelf": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/regions_unexplored/maple_cabinet": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/maple_full_drawers_1": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/maple_full_drawers_2": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/sd/regions_unexplored/maple_full_drawers_4": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/clock_block": {
+    "criteria": {
+      "minecraft:planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/hollow_maple_log": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_ladder": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/white_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/paper_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2025-08-07 00:13:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "minecraft:planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/regions_unexplored/maple_banister": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-08-07 00:07:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pink_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/c/regions_unexplored/maple_window": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-08-07 00:12:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley": {
+    "criteria": {
+      "minecraft:planks": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/regions_unexplored/maple_vertical_slab": {
+    "criteria": {
+      "has_item": "2025-08-07 00:12:11 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/flaxen_cheese_from_milk": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-08-07 00:03:01 +0000"
     },
     "done": true
   },
