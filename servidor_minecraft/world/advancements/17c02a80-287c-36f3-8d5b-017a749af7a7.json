@@ -7902,6 +7902,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-08-07 02:23:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2025-08-07 00:56:03 +0000"
