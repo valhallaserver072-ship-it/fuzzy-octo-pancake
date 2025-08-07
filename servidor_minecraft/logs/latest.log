@@ -4993,3 +4993,41 @@ java.lang.IllegalStateException: not found
 [07Aug2025 19:42:33.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.859167098999023) to VERY_LOW (avg. 16.09252166748047)
 [07Aug2025 19:45:29.528] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=574, y=76, z=-31}
 [07Aug2025 19:45:29.529] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=574, y=76, z=-31}
+[07Aug2025 19:49:41.813] [Server thread/WARN] [net.minecraft.world.entity.ai.gossip.GossipContainer/]: Failed to deserialize gossips: Not a list: END
+[07Aug2025 19:53:05.978] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 0dc1716d-6324-3292-88fc-ee819627c835 timed out
+[07Aug2025 19:53:05.978] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Yuuichiro425
+[07Aug2025 19:53:05.979] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Yuuichiro425
+[07Aug2025 19:53:14.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuuichiro425 lost connection: Timed out
+[07Aug2025 19:53:14.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 left the game
+[07Aug2025 19:53:14.572] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Yuuichiro425
+[07Aug2025 19:53:14.602] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Aug2025 19:53:58.257] [ForkJoinPool.commonPool-worker-5/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:Yuuichiro425'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.4.2+1.20-forge.jar%23436!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[skinrestorer-2.4.2+1.20-forge.jar%23436!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[skinrestorer-2.4.2+1.20-forge.jar%23436!/:2.4.2+1.20-forge]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[skinrestorer-2.4.2+1.20-forge.jar%23436!/:2.4.2+1.20-forge]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdac78de$skinrestorer$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:1582) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:1581) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.mdac78de$skinrestorer$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:1566) ~[server-1.20.1-20230612.114412-srg.jar%23471!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[07Aug2025 19:53:58.337] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuuichiro425[/127.179.214.139:37291] logged in with entity id 3144 at (572.6341841882007, 76.0, -31.7327740745658)
+[07Aug2025 19:53:58.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuuichiro425 joined the game
+[07Aug2025 19:53:58.404] [Server thread/INFO] [APTweaks(Player)/]: Player Yuuichiro425 ServerPlayer['Yuuichiro425'/3144, l='ServerLevel[world]', x=572.63, y=76.00, z=-31.73] logged in and will be protected for 90 secs.
+[07Aug2025 19:53:59.135] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player yuuichiro425 has successfully logged in.
+[07Aug2025 19:53:59.146] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Yuuichiro425 (18)
+[07Aug2025 19:53:59.147] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Yuuichiro425
+[07Aug2025 19:54:23.089] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 0dc1716d-6324-3292-88fc-ee819627c835
+[07Aug2025 19:54:24.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 0dc1716d-6324-3292-88fc-ee819627c835
+[07Aug2025 19:54:24.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Yuuichiro425 (0dc1716d-6324-3292-88fc-ee819627c835) successfully connected to voice chat
+[07Aug2025 19:54:28.297] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Yuuichiro425 was successful validated after 29 secs.
+[07Aug2025 19:54:28.297] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Yuuichiro425!
